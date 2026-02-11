@@ -2,24 +2,347 @@
 
 [← Back to main gallery](../)
 
-| | | |
-|:--:|:--:|:--:|
-| <img src="anyone-can-issue-verifiable-credentials-rat-chef.png" width="300" alt="A cartoon rat wearing a chef's hat and holding a wooden spoon stands next to text that reads "Anyone CAN issue VERIFIABLE CREDENTIALS!" in white and blue letters on an orange background."><br>**Anyone Can Issue Verifiable Credentials Rat Chef** | <img src="badging-policy-elements-framework-diagram.png" width="300" alt="A visual diagram showing the key elements of a badging policy, with "Elements of a Badging Policy" in a central hexagon surrounded by ten components including scope & objectives, badge types & categories, issuing guidelines, criteria & assessment, endorsement mechanisms, design & taxonomy, inclusivity & accessibility, integration with existing systems, digital infrastructure, data privacy & ownership, quality assurance & trust, stakeholder engagement, and evaluation & iteration."><br>**Badging Policy Elements Framework Diagram** | <img src="bridge-connecting-stated-recognised-value.png" width="300" alt="A simple line drawing of a bridge spanning between two sides labeled "STATED VALUE" on the left and "RECOGNISED VALUE" on the right, with water flowing beneath."><br>**Bridge Connecting Stated Recognised Value** |
-| <img src="corporate-certification-credentials-announcement.png" width="300" alt="A person in business attire stands next to a large box labeled "BIG CORP PROFESSIONAL CERTIFICATION" while announcing they just released some great new exclusive credentials."><br>**Corporate Certification Credentials Announcement** | <img src="credential-collection-journey-pathway.png" width="300" alt="A diagram showing a winding path with small oval credentials collected along the journey leading to a final hexagonal credential that represents the end goal."><br>**Credential Collection Journey Pathway** | <img src="credential-granularity-size-spectrum-comparison.png" width="300" alt="This illustration shows three panels depicting credentials of increasing size from a small token to a medium ball to an oversized sphere, with arrows indicating a spectrum from "more granular" to "less granular" to answer the question "How big should a credential be?""><br>**Credential Granularity Size Spectrum Comparison** |
-| <img src="credential-project-blueprint-header-design.png" width="300" alt="A blueprint-style header design with "CREDENTIAL PROJECT" at the top and "BLUEPRINT" as the main title in large white letters on a light blue background with technical drawing border elements."><br>**Credential Project Blueprint Header Design** | <img src="credential-protect-blueprint-visual-thinkery.png" width="300" alt="A visual blueprint illustrating the concept of credential protection through various elements including peer validation, behavioral analysis, innovation distribution curves, credibility triangles, viral badging, and knowledge transformation processes."><br>**Credential Protect Blueprint Visual Thinkery** | <img src="credential-vs-recognition-trophy-celebration.png" width="300" alt="A person in blue holds a trophy while being carried by two supporters, illustrating the contrast between credential achievement and recognition by others."><br>**Credential Vs Recognition Trophy Celebration** |
-| <img src="credentialing-to-recognition-rainbow-bridge.png" width="300" alt="A robotic arm labeled "Cold Hard Credentialing" passes a golden object through a rainbow arc to a celebrating person labeled "Warm Fuzzy Recognition.""><br>**Credentialing To Recognition Rainbow Bridge** | <img src="credentialing-vs-recognition-spectrum.png" width="300" alt="A cartoon illustration contrasting a robotic arm performing "cold hard credentialling" with a joyful person leaping toward "warm fuzzy recognition," connected by a colorful rainbow arc."><br>**Credentialing Vs Recognition Spectrum** | <img src="credentialling-to-recognition-spectrum.png" width="300" alt="A robotic arm labeled "Cold Hard Credentialling" extends a credential toward a person jumping joyfully labeled "Warm Fuzzy Recognition" with a rainbow connecting them."><br>**Credentialling To Recognition Spectrum** |
-| <img src="credentials-contexts-grid-matrix.png" width="300" alt="A grid labeled "CREDENTIALS" horizontally and "CONTEXTS" vertically shows 25 hexagonal icons in various shades of blue, representing the intersection of different credentials across different contexts."><br>**Credentials Contexts Grid Matrix** | <img src="credibility-of-credentials-triangle-diagram.png" width="300" alt="A triangular diagram showing the three components of credential credibility: validity at the top, reliability at bottom left, and viability at bottom right, with credibility indicated by an arrow pointing to the center."><br>**Credibility Of Credentials Triangle Diagram** | <img src="credibility-triangle-validity-reliability-viabilit.png" width="300" alt="A triangular diagram showing the three interconnected elements of credibility: validity at the top, reliability at the bottom left, and viability at the bottom right, with "credibility" labeled at the center where all three meet."><br>**Credibility Triangle Validity Reliability Viabilit** |
-| <img src="descriptive-vs-prescriptive-badges-pathway.png" width="300" alt="A figure walks along a dotted path with downward arrows labeled "descriptive badges" on the left side and curved forward arrows labeled "prescriptive badges" on the right side, illustrating the transition from describing current state to guiding future direction."><br>**Descriptive Vs Prescriptive Badges Pathway** | <img src="digital-badge-credibility-levels-concentric-model.png" width="300" alt="A silhouette figure stands at the center of concentric colored circles representing expanding levels of digital badge credibility, from self-issued at the core to endorsed at the outermost ring."><br>**Digital Badge Credibility Levels Concentric Model** | <img src="digital-credentials-types-hexagon-diagram.png" width="300" alt="The illustration shows different types of digital credentials represented as hexagonal shapes, including block cert, open badge, e-certificate, digital credential, alternative digital credential, micro credential, and credential arranged in a honeycomb-like pattern."><br>**Digital Credentials Types Hexagon Diagram** |
-| <img src="digital-identity-trust-levels-concentric-circles.png" width="300" alt="A silhouetted person stands at the center of concentric colored circles representing increasing levels of digital identity trust, from "self issued" at the innermost yellow circle to "endorsed" at the outermost blue circle."><br>**Digital Identity Trust Levels Concentric Circles** | <img src="digital-verification-bloop-just-works.png" width="300" alt="This illustration shows three scenarios where physical items (train ticket, wallet, and certificate) are converted to digital formats on smartphones and then used successfully with a "bloop" sound effect, demonstrating how digital verification "just works.""><br>**Digital Verification Bloop Just Works** | <img src="future-employee-spacetime-pathway-alert.png" width="300" alt="A hand-drawn comic-style alert notification showing a possible future employee traveling through an endorsed space-time pathway, with a portrait photo, hexagonal diagram, and "Start Conversation" button."><br>**Future Employee Spacetime Pathway Alert** |
-| <img src="futuristic-employee-alert-notification-comic.png" width="300" alt="A hand-drawn comic-style alert notification showing a "possible future employee traversing through endorsed pathway" with a person's photo and a "Start Conversation" button, humorously depicting space-time recruitment pathways."><br>**Futuristic Employee Alert Notification Comic** | <img src="hexagonal-void-stamp-badge.png" width="300" alt="A beige hexagonal badge with "VOID" written in white letters, designed to look like a rubber stamp or watermark."><br>**Hexagonal Void Stamp Badge** | <img src="historical-butter-churning-credential-comic.png" width="300" alt="A person in old-fashioned clothing churns butter with a wooden churn while saying they're working toward a credential in butter churning but have no idea why."><br>**Historical Butter Churning Credential Comic** |
-| <img src="hr-function-to-profession-evolution.png" width="300" alt="A simple diagram showing the evolution from HR as a business function (represented by a box with inputs and outputs) to HR as a profession (represented by a person wearing an HR badge)."><br>**Hr Function To Profession Evolution** | <img src="keeping-badges-weird-signpost-illustration.png" width="300" alt="A wooden signpost with multiple directional arrows has a red ribbon banner reading "KEEPING BADGES WEIRD" wrapped around it, with text below stating "HELPING PEOPLE UNDERSTAND THE BADGES LANDSCAPE.""><br>**Keeping Badges Weird Signpost Illustration** | <img src="meaning-of-recognition-three-strands-weaving.png" width="300" alt="Three colored strands labeled "Intention," "Relationship," and "Context" weave together to form the word "MEANING" under the title "The Meaning of Recognition.""><br>**Meaning Of Recognition Three Strands Weaving** |
-| <img src="micro-credentials-course-slicing-cartoon.png" width="300" alt="A cartoon showing a person slicing a "big course" like salami while another person asks for a digital micro credential with evidence linked to open standards that would be meaningful to employers."><br>**Micro Credentials Course Slicing Cartoon** | <img src="microcredentialing-vs-recognition-policies-compari.png" width="300" alt="This illustration contrasts microcredentialing policies (shown as a structured staircase with formal learning elements) against recognition policies (depicted as informal, decentralized badge-like elements scattered across the image)."><br>**Microcredentialing Vs Recognition Policies Compari** | <img src="mutual-recognition-credentialing-exchange.png" width="300" alt="Two people exchange recognition and credentialing in a circular flow, with one person in green holding a credential passing it to another person in blue who reciprocates the gesture."><br>**Mutual Recognition Credentialing Exchange** |
-| <img src="open-hub-learning-microcredentials-diagram.png" width="300" alt="A diagram showing an "Open Hub" at the center with radiating rectangular blocks representing "structured chunks of learning" that connect to hexagonal "micro-credentials" for recognizing achievements."><br>**Open Hub Learning Microcredentials Diagram** | <img src="person-more-than-resume-shapes-illustration.png" width="300" alt="A cartoon illustration shows a person in a yellow shirt with arms outstretched, surrounded by colorful geometric shapes, with text reading "I AM MORE THAN JUST MY RESUMÉ" against a dark blue and white background."><br>**Person More Than Resume Shapes Illustration** | <img src="punctuality-credential-comic-illustration.png" width="300" alt="A man wearing a clock t-shirt proudly claims to have a "punctuality credential" while a diverse group of people respond that not having such a credential doesn't mean they're not punctual."><br>**Punctuality Credential Comic Illustration** |
-| <img src="recognition-credentialing-exchange-cycle.png" width="300" alt="Two people exchange recognition and credentialing in a circular flow, with one person in green giving recognition to another in blue who returns credentialing, illustrating a mutual professional validation system."><br>**Recognition Credentialing Exchange Cycle** | <img src="recognition-trophy-celebration-support.png" width="300" alt="A cartoon shows a person in blue holding a trophy with raised arms while being carried on the shoulders of two supporters, with "CREDENTIAL" labeled on the left and "RECOGNITION" on the right."><br>**Recognition Trophy Celebration Support** | <img src="signpost-keeping-badges-weird-navigation.png" width="300" alt="A wooden signpost with multiple directional arrows and a red ribbon reading "KEEPING BADGES WEIRD" illustrates the concept of helping people navigate and understand the digital badges landscape."><br>**Signpost Keeping Badges Weird Navigation** |
-| <img src="space-game-badge-alert-interface.png" width="300" alt="A space-themed game interface showing an alert that a key badge has been located, with navigation controls, mission objective to find business talent, and badge statistics displaying 256 issued and 17 in progress."><br>**Space Game Badge Alert Interface** | <img src="technology-tree-microcredentials-community-roots.png" width="300" alt="A person points excitedly at a tree labeled "Technology" with "Standards" on the trunk and "Community Ideology" in the root system, exclaiming "Oh wow! Microcredentials!""><br>**Technology Tree Microcredentials Community Roots** | <img src="technology-tree-microcredentials-standards-communi.png" width="300" alt="A person points excitedly at a tree labeled "Technology" growing from roots labeled "Standards" and "Community Ideology" while exclaiming "Oh wow! Microcredentials!""><br>**Technology Tree Microcredentials Standards Communi** |
-| <img src="thankless-task-hexagon-badge-smile.png" width="300" alt="A cheerful blue hexagonal badge with a smiling face displays "THANKLESS TASK" in bold black letters."><br>**Thankless Task Hexagon Badge Smile** | <img src="trough-of-disillusionment-open-badge-comic.png" width="300" alt="A two-panel comic showing a person's excitement turning to confusion after receiving an "open badge" - first saying "WOW!" then asking "Now what can I do with it?""><br>**Trough Of Disillusionment Open Badge Comic** | <img src="viral-badging-chain-illustration.png" width="300" alt="Three figures pass a viral badge from person to person in a chain, illustrating how viral content spreads through social networks."><br>**Viral Badging Chain Illustration** |
-| <img src="wooden-signpost-keeping-badges-weird-banner.png" width="300" alt="A wooden directional signpost with multiple blank arrows pointing in different directions, with a red ribbon banner reading "KEEPING BADGES WEIRD" flowing across it."><br>**Wooden Signpost Keeping Badges Weird Banner** | | |
+### Anyone Can Issue Verifiable Credentials Rat Chef
 
+![A cartoon rat wearing a chef's hat and holding a wooden spoon stands next to text that reads "Anyone CAN issue VERIFIABLE CREDENTIALS!" in white and blue letters on an orange background.](anyone-can-issue-verifiable-credentials-rat-chef.png)
+
+_A cartoon rat wearing a chef's hat and holding a wooden spoon stands next to text that reads "Anyone CAN issue VERIFIABLE CREDENTIALS!" in white and blue letters on an orange background._
+
+---
+
+### Badging Policy Elements Framework Diagram
+
+![A visual diagram showing the key elements of a badging policy, with "Elements of a Badging Policy" in a central hexagon surrounded by ten components including scope & objectives, badge types & categories, issuing guidelines, criteria & assessment, endorsement mechanisms, design & taxonomy, inclusivity & accessibility, integration with existing systems, digital infrastructure, data privacy & ownership, quality assurance & trust, stakeholder engagement, and evaluation & iteration.](badging-policy-elements-framework-diagram.png)
+
+_A visual diagram showing the key elements of a badging policy, with "Elements of a Badging Policy" in a central hexagon surrounded by ten components including scope & objectives, badge types & categories, issuing guidelines, criteria & assessment, endorsement mechanisms, design & taxonomy, inclusivity & accessibility, integration with existing systems, digital infrastructure, data privacy & ownership, quality assurance & trust, stakeholder engagement, and evaluation & iteration._
+
+---
+
+### Bridge Connecting Stated Recognised Value
+
+![A simple line drawing of a bridge spanning between two sides labeled "STATED VALUE" on the left and "RECOGNISED VALUE" on the right, with water flowing beneath.](bridge-connecting-stated-recognised-value.png)
+
+_A simple line drawing of a bridge spanning between two sides labeled "STATED VALUE" on the left and "RECOGNISED VALUE" on the right, with water flowing beneath._
+
+---
+
+### Corporate Certification Credentials Announcement
+
+![A person in business attire stands next to a large box labeled "BIG CORP PROFESSIONAL CERTIFICATION" while announcing they just released some great new exclusive credentials.](corporate-certification-credentials-announcement.png)
+
+_A person in business attire stands next to a large box labeled "BIG CORP PROFESSIONAL CERTIFICATION" while announcing they just released some great new exclusive credentials._
+
+---
+
+### Credential Collection Journey Pathway
+
+![A diagram showing a winding path with small oval credentials collected along the journey leading to a final hexagonal credential that represents the end goal.](credential-collection-journey-pathway.png)
+
+_A diagram showing a winding path with small oval credentials collected along the journey leading to a final hexagonal credential that represents the end goal._
+
+---
+
+### Credential Granularity Size Spectrum Comparison
+
+![This illustration shows three panels depicting credentials of increasing size from a small token to a medium ball to an oversized sphere, with arrows indicating a spectrum from "more granular" to "less granular" to answer the question "How big should a credential be?"](credential-granularity-size-spectrum-comparison.png)
+
+_This illustration shows three panels depicting credentials of increasing size from a small token to a medium ball to an oversized sphere, with arrows indicating a spectrum from "more granular" to "less granular" to answer the question "How big should a credential be?"_
+
+---
+
+### Credential Project Blueprint Header Design
+
+![A blueprint-style header design with "CREDENTIAL PROJECT" at the top and "BLUEPRINT" as the main title in large white letters on a light blue background with technical drawing border elements.](credential-project-blueprint-header-design.png)
+
+_A blueprint-style header design with "CREDENTIAL PROJECT" at the top and "BLUEPRINT" as the main title in large white letters on a light blue background with technical drawing border elements._
+
+---
+
+### Credential Protect Blueprint Visual Thinkery
+
+![A visual blueprint illustrating the concept of credential protection through various elements including peer validation, behavioral analysis, innovation distribution curves, credibility triangles, viral badging, and knowledge transformation processes.](credential-protect-blueprint-visual-thinkery.png)
+
+_A visual blueprint illustrating the concept of credential protection through various elements including peer validation, behavioral analysis, innovation distribution curves, credibility triangles, viral badging, and knowledge transformation processes._
+
+---
+
+### Credential Vs Recognition Trophy Celebration
+
+![A person in blue holds a trophy while being carried by two supporters, illustrating the contrast between credential achievement and recognition by others.](credential-vs-recognition-trophy-celebration.png)
+
+_A person in blue holds a trophy while being carried by two supporters, illustrating the contrast between credential achievement and recognition by others._
+
+---
+
+### Credentialing To Recognition Rainbow Bridge
+
+![A robotic arm labeled "Cold Hard Credentialing" passes a golden object through a rainbow arc to a celebrating person labeled "Warm Fuzzy Recognition."](credentialing-to-recognition-rainbow-bridge.png)
+
+_A robotic arm labeled "Cold Hard Credentialing" passes a golden object through a rainbow arc to a celebrating person labeled "Warm Fuzzy Recognition."_
+
+---
+
+### Credentialing Vs Recognition Spectrum
+
+![A cartoon illustration contrasting a robotic arm performing "cold hard credentialling" with a joyful person leaping toward "warm fuzzy recognition," connected by a colorful rainbow arc.](credentialing-vs-recognition-spectrum.png)
+
+_A cartoon illustration contrasting a robotic arm performing "cold hard credentialling" with a joyful person leaping toward "warm fuzzy recognition," connected by a colorful rainbow arc._
+
+---
+
+### Credentialling To Recognition Spectrum
+
+![A robotic arm labeled "Cold Hard Credentialling" extends a credential toward a person jumping joyfully labeled "Warm Fuzzy Recognition" with a rainbow connecting them.](credentialling-to-recognition-spectrum.png)
+
+_A robotic arm labeled "Cold Hard Credentialling" extends a credential toward a person jumping joyfully labeled "Warm Fuzzy Recognition" with a rainbow connecting them._
+
+---
+
+### Credentials Contexts Grid Matrix
+
+![A grid labeled "CREDENTIALS" horizontally and "CONTEXTS" vertically shows 25 hexagonal icons in various shades of blue, representing the intersection of different credentials across different contexts.](credentials-contexts-grid-matrix.png)
+
+_A grid labeled "CREDENTIALS" horizontally and "CONTEXTS" vertically shows 25 hexagonal icons in various shades of blue, representing the intersection of different credentials across different contexts._
+
+---
+
+### Credibility Of Credentials Triangle Diagram
+
+![A triangular diagram showing the three components of credential credibility: validity at the top, reliability at bottom left, and viability at bottom right, with credibility indicated by an arrow pointing to the center.](credibility-of-credentials-triangle-diagram.png)
+
+_A triangular diagram showing the three components of credential credibility: validity at the top, reliability at bottom left, and viability at bottom right, with credibility indicated by an arrow pointing to the center._
+
+---
+
+### Credibility Triangle Validity Reliability Viabilit
+
+![A triangular diagram showing the three interconnected elements of credibility: validity at the top, reliability at the bottom left, and viability at the bottom right, with "credibility" labeled at the center where all three meet.](credibility-triangle-validity-reliability-viabilit.png)
+
+_A triangular diagram showing the three interconnected elements of credibility: validity at the top, reliability at the bottom left, and viability at the bottom right, with "credibility" labeled at the center where all three meet._
+
+---
+
+### Descriptive Vs Prescriptive Badges Pathway
+
+![A figure walks along a dotted path with downward arrows labeled "descriptive badges" on the left side and curved forward arrows labeled "prescriptive badges" on the right side, illustrating the transition from describing current state to guiding future direction.](descriptive-vs-prescriptive-badges-pathway.png)
+
+_A figure walks along a dotted path with downward arrows labeled "descriptive badges" on the left side and curved forward arrows labeled "prescriptive badges" on the right side, illustrating the transition from describing current state to guiding future direction._
+
+---
+
+### Digital Badge Credibility Levels Concentric Model
+
+![A silhouette figure stands at the center of concentric colored circles representing expanding levels of digital badge credibility, from self-issued at the core to endorsed at the outermost ring.](digital-badge-credibility-levels-concentric-model.png)
+
+_A silhouette figure stands at the center of concentric colored circles representing expanding levels of digital badge credibility, from self-issued at the core to endorsed at the outermost ring._
+
+---
+
+### Digital Credentials Types Hexagon Diagram
+
+![The illustration shows different types of digital credentials represented as hexagonal shapes, including block cert, open badge, e-certificate, digital credential, alternative digital credential, micro credential, and credential arranged in a honeycomb-like pattern.](digital-credentials-types-hexagon-diagram.png)
+
+_The illustration shows different types of digital credentials represented as hexagonal shapes, including block cert, open badge, e-certificate, digital credential, alternative digital credential, micro credential, and credential arranged in a honeycomb-like pattern._
+
+---
+
+### Digital Identity Trust Levels Concentric Circles
+
+![A silhouetted person stands at the center of concentric colored circles representing increasing levels of digital identity trust, from "self issued" at the innermost yellow circle to "endorsed" at the outermost blue circle.](digital-identity-trust-levels-concentric-circles.png)
+
+_A silhouetted person stands at the center of concentric colored circles representing increasing levels of digital identity trust, from "self issued" at the innermost yellow circle to "endorsed" at the outermost blue circle._
+
+---
+
+### Digital Verification Bloop Just Works
+
+![This illustration shows three scenarios where physical items (train ticket, wallet, and certificate) are converted to digital formats on smartphones and then used successfully with a "bloop" sound effect, demonstrating how digital verification "just works."](digital-verification-bloop-just-works.png)
+
+_This illustration shows three scenarios where physical items (train ticket, wallet, and certificate) are converted to digital formats on smartphones and then used successfully with a "bloop" sound effect, demonstrating how digital verification "just works."_
+
+---
+
+### Future Employee Spacetime Pathway Alert
+
+![A hand-drawn comic-style alert notification showing a possible future employee traveling through an endorsed space-time pathway, with a portrait photo, hexagonal diagram, and "Start Conversation" button.](future-employee-spacetime-pathway-alert.png)
+
+_A hand-drawn comic-style alert notification showing a possible future employee traveling through an endorsed space-time pathway, with a portrait photo, hexagonal diagram, and "Start Conversation" button._
+
+---
+
+### Futuristic Employee Alert Notification Comic
+
+![A hand-drawn comic-style alert notification showing a "possible future employee traversing through endorsed pathway" with a person's photo and a "Start Conversation" button, humorously depicting space-time recruitment pathways.](futuristic-employee-alert-notification-comic.png)
+
+_A hand-drawn comic-style alert notification showing a "possible future employee traversing through endorsed pathway" with a person's photo and a "Start Conversation" button, humorously depicting space-time recruitment pathways._
+
+---
+
+### Hexagonal Void Stamp Badge
+
+![A beige hexagonal badge with "VOID" written in white letters, designed to look like a rubber stamp or watermark.](hexagonal-void-stamp-badge.png)
+
+_A beige hexagonal badge with "VOID" written in white letters, designed to look like a rubber stamp or watermark._
+
+---
+
+### Historical Butter Churning Credential Comic
+
+![A person in old-fashioned clothing churns butter with a wooden churn while saying they're working toward a credential in butter churning but have no idea why.](historical-butter-churning-credential-comic.png)
+
+_A person in old-fashioned clothing churns butter with a wooden churn while saying they're working toward a credential in butter churning but have no idea why._
+
+---
+
+### Hr Function To Profession Evolution
+
+![A simple diagram showing the evolution from HR as a business function (represented by a box with inputs and outputs) to HR as a profession (represented by a person wearing an HR badge).](hr-function-to-profession-evolution.png)
+
+_A simple diagram showing the evolution from HR as a business function (represented by a box with inputs and outputs) to HR as a profession (represented by a person wearing an HR badge)._
+
+---
+
+### Keeping Badges Weird Signpost Illustration
+
+![A wooden signpost with multiple directional arrows has a red ribbon banner reading "KEEPING BADGES WEIRD" wrapped around it, with text below stating "HELPING PEOPLE UNDERSTAND THE BADGES LANDSCAPE."](keeping-badges-weird-signpost-illustration.png)
+
+_A wooden signpost with multiple directional arrows has a red ribbon banner reading "KEEPING BADGES WEIRD" wrapped around it, with text below stating "HELPING PEOPLE UNDERSTAND THE BADGES LANDSCAPE."_
+
+---
+
+### Meaning Of Recognition Three Strands Weaving
+
+![Three colored strands labeled "Intention," "Relationship," and "Context" weave together to form the word "MEANING" under the title "The Meaning of Recognition."](meaning-of-recognition-three-strands-weaving.png)
+
+_Three colored strands labeled "Intention," "Relationship," and "Context" weave together to form the word "MEANING" under the title "The Meaning of Recognition."_
+
+---
+
+### Micro Credentials Course Slicing Cartoon
+
+![A cartoon showing a person slicing a "big course" like salami while another person asks for a digital micro credential with evidence linked to open standards that would be meaningful to employers.](micro-credentials-course-slicing-cartoon.png)
+
+_A cartoon showing a person slicing a "big course" like salami while another person asks for a digital micro credential with evidence linked to open standards that would be meaningful to employers._
+
+---
+
+### Microcredentialing Vs Recognition Policies Compari
+
+![This illustration contrasts microcredentialing policies (shown as a structured staircase with formal learning elements) against recognition policies (depicted as informal, decentralized badge-like elements scattered across the image).](microcredentialing-vs-recognition-policies-compari.png)
+
+_This illustration contrasts microcredentialing policies (shown as a structured staircase with formal learning elements) against recognition policies (depicted as informal, decentralized badge-like elements scattered across the image)._
+
+---
+
+### Mutual Recognition Credentialing Exchange
+
+![Two people exchange recognition and credentialing in a circular flow, with one person in green holding a credential passing it to another person in blue who reciprocates the gesture.](mutual-recognition-credentialing-exchange.png)
+
+_Two people exchange recognition and credentialing in a circular flow, with one person in green holding a credential passing it to another person in blue who reciprocates the gesture._
+
+---
+
+### Open Hub Learning Microcredentials Diagram
+
+![A diagram showing an "Open Hub" at the center with radiating rectangular blocks representing "structured chunks of learning" that connect to hexagonal "micro-credentials" for recognizing achievements.](open-hub-learning-microcredentials-diagram.png)
+
+_A diagram showing an "Open Hub" at the center with radiating rectangular blocks representing "structured chunks of learning" that connect to hexagonal "micro-credentials" for recognizing achievements._
+
+---
+
+### Person More Than Resume Shapes Illustration
+
+![A cartoon illustration shows a person in a yellow shirt with arms outstretched, surrounded by colorful geometric shapes, with text reading "I AM MORE THAN JUST MY RESUMÉ" against a dark blue and white background.](person-more-than-resume-shapes-illustration.png)
+
+_A cartoon illustration shows a person in a yellow shirt with arms outstretched, surrounded by colorful geometric shapes, with text reading "I AM MORE THAN JUST MY RESUMÉ" against a dark blue and white background._
+
+---
+
+### Punctuality Credential Comic Illustration
+
+![A man wearing a clock t-shirt proudly claims to have a "punctuality credential" while a diverse group of people respond that not having such a credential doesn't mean they're not punctual.](punctuality-credential-comic-illustration.png)
+
+_A man wearing a clock t-shirt proudly claims to have a "punctuality credential" while a diverse group of people respond that not having such a credential doesn't mean they're not punctual._
+
+---
+
+### Recognition Credentialing Exchange Cycle
+
+![Two people exchange recognition and credentialing in a circular flow, with one person in green giving recognition to another in blue who returns credentialing, illustrating a mutual professional validation system.](recognition-credentialing-exchange-cycle.png)
+
+_Two people exchange recognition and credentialing in a circular flow, with one person in green giving recognition to another in blue who returns credentialing, illustrating a mutual professional validation system._
+
+---
+
+### Recognition Trophy Celebration Support
+
+![A cartoon shows a person in blue holding a trophy with raised arms while being carried on the shoulders of two supporters, with "CREDENTIAL" labeled on the left and "RECOGNITION" on the right.](recognition-trophy-celebration-support.png)
+
+_A cartoon shows a person in blue holding a trophy with raised arms while being carried on the shoulders of two supporters, with "CREDENTIAL" labeled on the left and "RECOGNITION" on the right._
+
+---
+
+### Signpost Keeping Badges Weird Navigation
+
+![A wooden signpost with multiple directional arrows and a red ribbon reading "KEEPING BADGES WEIRD" illustrates the concept of helping people navigate and understand the digital badges landscape.](signpost-keeping-badges-weird-navigation.png)
+
+_A wooden signpost with multiple directional arrows and a red ribbon reading "KEEPING BADGES WEIRD" illustrates the concept of helping people navigate and understand the digital badges landscape._
+
+---
+
+### Space Game Badge Alert Interface
+
+![A space-themed game interface showing an alert that a key badge has been located, with navigation controls, mission objective to find business talent, and badge statistics displaying 256 issued and 17 in progress.](space-game-badge-alert-interface.png)
+
+_A space-themed game interface showing an alert that a key badge has been located, with navigation controls, mission objective to find business talent, and badge statistics displaying 256 issued and 17 in progress._
+
+---
+
+### Technology Tree Microcredentials Community Roots
+
+![A person points excitedly at a tree labeled "Technology" with "Standards" on the trunk and "Community Ideology" in the root system, exclaiming "Oh wow! Microcredentials!"](technology-tree-microcredentials-community-roots.png)
+
+_A person points excitedly at a tree labeled "Technology" with "Standards" on the trunk and "Community Ideology" in the root system, exclaiming "Oh wow! Microcredentials!"_
+
+---
+
+### Technology Tree Microcredentials Standards Communi
+
+![A person points excitedly at a tree labeled "Technology" growing from roots labeled "Standards" and "Community Ideology" while exclaiming "Oh wow! Microcredentials!"](technology-tree-microcredentials-standards-communi.png)
+
+_A person points excitedly at a tree labeled "Technology" growing from roots labeled "Standards" and "Community Ideology" while exclaiming "Oh wow! Microcredentials!"_
+
+---
+
+### Thankless Task Hexagon Badge Smile
+
+![A cheerful blue hexagonal badge with a smiling face displays "THANKLESS TASK" in bold black letters.](thankless-task-hexagon-badge-smile.png)
+
+_A cheerful blue hexagonal badge with a smiling face displays "THANKLESS TASK" in bold black letters._
+
+---
+
+### Trough Of Disillusionment Open Badge Comic
+
+![A two-panel comic showing a person's excitement turning to confusion after receiving an "open badge" - first saying "WOW!" then asking "Now what can I do with it?"](trough-of-disillusionment-open-badge-comic.png)
+
+_A two-panel comic showing a person's excitement turning to confusion after receiving an "open badge" - first saying "WOW!" then asking "Now what can I do with it?"_
+
+---
+
+### Viral Badging Chain Illustration
+
+![Three figures pass a viral badge from person to person in a chain, illustrating how viral content spreads through social networks.](viral-badging-chain-illustration.png)
+
+_Three figures pass a viral badge from person to person in a chain, illustrating how viral content spreads through social networks._
+
+---
+
+### Wooden Signpost Keeping Badges Weird Banner
+
+![A wooden directional signpost with multiple blank arrows pointing in different directions, with a red ribbon banner reading "KEEPING BADGES WEIRD" flowing across it.](wooden-signpost-keeping-badges-weird-banner.png)
+
+_A wooden directional signpost with multiple blank arrows pointing in different directions, with a red ribbon banner reading "KEEPING BADGES WEIRD" flowing across it._
 
 ---
 
