@@ -2,7 +2,7 @@
 
 Creative Commons licensed illustrations created for We Are Open Co-op.
 
-All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/). 
 
 ## Collections
 
@@ -15,3 +15,5 @@ All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecomm
 - [Open Education](./open-education/README.md) (9 images)
 - [Project Management](./project-management/README.md) (33 images)
 - [User Research](./user-research/README.md) (27 images)
+
+More of Bryan's work can be found at his [Visual Thinkery](https://visualthinkery.com) website.
