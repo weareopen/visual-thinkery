@@ -10,7 +10,7 @@ _A minimalist illustration showing "Adapt" in bold black lettering with "to chan
 
 ---
 
-### Ai Chatbot Worship Posture Advice Humor
+### Ai Chatbot Worship Posture Advice
 
 ![A person kneels before a laptop on a pedestal asking "Tell me oh great GeePees what should I do?" and the AI responds with praise before critiquing their posture, illustrating how AI chatbots often give flattery followed by unsolicited advice.](ai-chatbot-worship-posture-advice-humor.png)
 
@@ -66,14 +66,6 @@ _Four blue curved arrows pointing downward toward a horizontal black line, sugge
 
 ---
 
-### Avocado Character Saying Advocacy Pun
-
-![A cartoon avocado character with arms, legs, and a face says "Oh ADVOCACY right..." in a speech bubble.](avocado-character-saying-advocacy-pun.png)
-
-_A cartoon avocado character with arms, legs, and a face says "Oh ADVOCACY right..." in a speech bubble._
-
----
-
 ### Avocado Character Says Advocacy Right
 
 ![A cartoon avocado character with arms, legs, and a concerned facial expression says "Oh ADVOCACY right..." in a speech bubble.](avocado-character-says-advocacy-right.png)
@@ -98,22 +90,6 @@ _The word "BADASS" is displayed in large, bold letters with "BAD" in coral/red c
 
 ---
 
-### Badass Typography Red Blue Cutout Letters
-
-![A bold typographic design featuring the word "BAD" in red letters above "ASS" in dark blue/gray letters, with stylized lettering that has cut-out sections creating a distinctive visual effect.](badass-typography-red-blue-cutout-letters.png)
-
-_A bold typographic design featuring the word "BAD" in red letters above "ASS" in dark blue/gray letters, with stylized lettering that has cut-out sections creating a distinctive visual effect._
-
----
-
-### Bamboo Grove Blue Background Illustration
-
-![A stylized illustration of tall bamboo stalks with green foliage rendered in bright yellow-green against a deep blue background, with white ground texture at the base.](bamboo-grove-blue-background-illustration.png)
-
-_A stylized illustration of tall bamboo stalks with green foliage rendered in bright yellow-green against a deep blue background, with white ground texture at the base._
-
----
-
 ### Bamboo Grove Watercolor Illustration
 
 ![A stylized illustration of bamboo stalks with green foliage rendered in a loose, artistic watercolor or crayon technique with yellow and green tones.](bamboo-grove-watercolor-illustration.png)
@@ -135,14 +111,6 @@ _A simple black line drawing shows a bicycle leaning against a large tree with a
 ![A cartoon illustration of a yellow product box labeled "YOUR BIKE" with "Model: Julie's" and "Assembly Required," mimicking the style of furniture packaging.](bike-assembly-required-box-cartoon.png)
 
 _A cartoon illustration of a yellow product box labeled "YOUR BIKE" with "Model: Julie's" and "Assembly Required," mimicking the style of furniture packaging._
-
----
-
-### Black Innovation Team Van Illustration
-
-![A black van with red accents and wheels displays "INNOVA TEAM" in large white letters with a prominent white "A" in the center, resembling the iconic A-Team vehicle.](black-innovation-team-van-illustration.png)
-
-_A black van with red accents and wheels displays "INNOVA TEAM" in large white letters with a prominent white "A" in the center, resembling the iconic A-Team vehicle._
 
 ---
 
@@ -186,14 +154,6 @@ _A simple illustration shows a dark rain cloud connected by a blue bridge to a w
 
 ---
 
-### Bridge From Storm To Sunshine
-
-![A simple illustration shows a dark rain cloud on the left connected by a blue bridge to a white sunny cloud on the right, with the text "BRIDGE TO A BETTER WORLD" below.](bridge-from-storm-to-sunshine.png)
-
-_A simple illustration shows a dark rain cloud on the left connected by a blue bridge to a white sunny cloud on the right, with the text "BRIDGE TO A BETTER WORLD" below._
-
----
-
 ### Bring Your Full Self To Work Dancing Person
 
 ![A cartoon illustration shows a person in yellow shirt and black pants dancing energetically with one arm raised, next to text reading "BRING YOUR FULL SELF TO WORK" on a blue background.](bring-your-full-self-to-work-dancing-person.png)
@@ -202,31 +162,7 @@ _A cartoon illustration shows a person in yellow shirt and black pants dancing e
 
 ---
 
-### Build Learn Stake Three Circles Logo
-
-![Three interlocking circles in blue, coral, and green accompany the text "BUILD LEARN STAKE" in matching colors, with the WAO logo in the bottom left corner.](build-learn-stake-three-circles-logo.png)
-
-_Three interlocking circles in blue, coral, and green accompany the text "BUILD LEARN STAKE" in matching colors, with the WAO logo in the bottom left corner._
-
----
-
-### Chinese Takeout Container With Chopsticks
-
-![A simple black line drawing shows a Chinese takeout container labeled "CHAN'S KUNG PO" with chopsticks lying beside it.](chinese-takeout-container-with-chopsticks.PNG)
-
-_A simple black line drawing shows a Chinese takeout container labeled "CHAN'S KUNG PO" with chopsticks lying beside it._
-
----
-
-### Cipd Letters Made Of People Stick Figures
-
-![The letters "CIPD" are formed by small stick figure drawings of people arranged to create each letter shape.](cipd-letters-made-of-people-stick-figures.png)
-
-_The letters "CIPD" are formed by small stick figure drawings of people arranged to create each letter shape._
-
----
-
-### Circle With Triangle And Numbered Marks
+### Clock showing 9-5
 
 ![A yellow triangle is positioned inside a blue circle with tick marks around its perimeter, with the numbers 9 and 5 visible outside the circle.](circle-with-triangle-and-numbered-marks.png)
 
@@ -242,43 +178,11 @@ _A combination padlock with a green clock face showing approximately 10:10, feat
 
 ---
 
-### Clock With Yellow Triangle Segment 1030 Time
-
-![A clock face showing approximately 10:30 with a yellow triangular segment highlighted in the upper left portion, with the numbers 9 and 5 visible.](clock-with-yellow-triangle-segment-1030-time.png)
-
-_A clock face showing approximately 10:30 with a yellow triangular segment highlighted in the upper left portion, with the numbers 9 and 5 visible._
-
----
-
-### Coffee Shop Door Sign Back In 5 Minutes
-
-![A red door with decorative glass panel reading "WE ARE OPEN" has a handwritten note taped below saying "POPPED OUT FOR COFFEE BACK IN 5MINS" with a coffee cup doodle.](coffee-shop-door-sign-back-in-5-minutes.png)
-
-_A red door with decorative glass panel reading "WE ARE OPEN" has a handwritten note taped below saying "POPPED OUT FOR COFFEE BACK IN 5MINS" with a coffee cup doodle._
-
----
-
-### Colorful Yarn Ball With Trailing Thread
-
-![A colorful ball of tangled yarn in orange, blue, and green with a loose green thread trailing from it, casting a shadow on a light gray background.](colorful-yarn-ball-with-trailing-thread.jpg)
-
-_A colorful ball of tangled yarn in orange, blue, and green with a loose green thread trailing from it, casting a shadow on a light gray background._
-
----
-
 ### Confused Cat On Yellow Mat Saying What
 
 ![A gray cat sits on a yellow mat with a confused expression, saying "WHAT?" with whiskers twitching.](confused-cat-on-yellow-mat-saying-what.png)
 
 _A gray cat sits on a yellow mat with a confused expression, saying "WHAT?" with whiskers twitching._
-
----
-
-### Confused Grey Cat On Yellow Mat Saying What
-
-![A confused-looking grey cat sits on a yellow mat or rug with "WHAT?" written nearby and "WAO" in the bottom corner.](confused-grey-cat-on-yellow-mat-saying-what.png)
-
-_A confused-looking grey cat sits on a yellow mat or rug with "WHAT?" written nearby and "WAO" in the bottom corner._
 
 ---
 
@@ -306,14 +210,6 @@ _A person holds up their phone showing a yellow checkmark while explaining that 
 
 ---
 
-### Custom Content Handwritten Diagonal Text
-
-![The words "CUSTOM CONTENT" are written in handwritten capital letters arranged diagonally across the image.](custom-content-handwritten-diagonal-text.PNG)
-
-_The words "CUSTOM CONTENT" are written in handwritten capital letters arranged diagonally across the image._
-
----
-
 ### Dad Joke Pacific Specific Pun Comic
 
 ![A two-panel comic shows someone asking about favorite bodies of water, with the response being "Can you be more pacific?" - a dad joke playing on "Pacific" vs "specific."](dad-joke-pacific-specific-pun-comic.png)
@@ -338,14 +234,6 @@ _A cyclist rides along a path beneath colorful autumn trees with the text "DIGIT
 
 ---
 
-### Digital Transformation Concept Mindmap
-
-![A hand-drawn sketch map exploring digital transformation concepts, featuring various interconnected elements like organizational structure, music climate, creative climate action, digital tools, processes, and human roles with arrows and annotations showing relationships between different aspects of technological change.](digital-transformation-concept-mindmap.png)
-
-_A hand-drawn sketch map exploring digital transformation concepts, featuring various interconnected elements like organizational structure, music climate, creative climate action, digital tools, processes, and human roles with arrows and annotations showing relationships between different aspects of technological change._
-
----
-
 ### Disco Ball Discovery Concept Illustration
 
 ![A white disco ball displays the colorful text "disco very" against a dark blue background with bokeh light effects.](disco-ball-discovery-concept-illustration.png)
@@ -359,14 +247,6 @@ _A white disco ball displays the colorful text "disco very" against a dark blue 
 ![A stick figure person in a blue shirt holds a baseball bat with a concerned expression, illustrating the concept of not overthinking by simply taking action.](dont-overthink-just-hit-baseball-motivation.png)
 
 _A stick figure person in a blue shirt holds a baseball bat with a concerned expression, illustrating the concept of not overthinking by simply taking action._
-
----
-
-### Dove Flying Peace Bird Outline
-
-![A simple black line drawing of a dove in flight with outstretched wings on a white background.](dove-flying-peace-bird-outline.PNG)
-
-_A simple black line drawing of a dove in flight with outstretched wings on a white background._
 
 ---
 
@@ -418,14 +298,6 @@ _A two-panel comic comparing HAL 9000 from 2001 refusing a request with "I'm sor
 
 ---
 
-### Hammer Tool Icon Circular Design
-
-![A hammer with a wooden handle and red grip is displayed inside a circular gray gridded background, rendered in a simple cartoon style.](hammer-tool-icon-circular-design.png)
-
-_A hammer with a wooden handle and red grip is displayed inside a circular gray gridded background, rendered in a simple cartoon style._
-
----
-
 ### Hands Framing Rectangle Composition
 
 ![Two hands with extended index fingers form a rectangular frame shape using dotted red lines to indicate the boundaries of the framed area.](hands-framing-rectangle-composition.png)
@@ -450,14 +322,6 @@ _A cheerful panda with raised arms celebrates while surrounded by green bamboo s
 
 ---
 
-### Happy Panda In Bamboo Forest Sketch
-
-![A cheerful panda with raised arms sits among green bamboo stalks in a sketchy, artistic style with black and white coloring and bright green accents.](happy-panda-in-bamboo-forest-sketch.png)
-
-_A cheerful panda with raised arms sits among green bamboo stalks in a sketchy, artistic style with black and white coloring and bright green accents._
-
----
-
 ### Happy Waving Panda Cartoon Illustration
 
 ![A cheerful cartoon panda with black and white fur waves with one paw while displaying a happy expression with an open pink mouth.](happy-waving-panda-cartoon-illustration.png)
@@ -466,11 +330,11 @@ _A cheerful cartoon panda with black and white fur waves with one paw while disp
 
 ---
 
-### Head Profile With Blue Uw Brain Hexagon
+### Badge tattoo
 
 ![A simplified line drawing of a human head in profile with a blue hexagonal shape containing "uw" text positioned where the brain would be.](head-profile-with-blue-uw-brain-hexagon.png)
 
-_A simplified line drawing of a human head in profile with a blue hexagonal shape containing "uw" text positioned where the brain would be._
+_An arm tattooed with a blue hexagonal badge._
 
 ---
 
@@ -498,14 +362,6 @@ _A yellow cartoon hamster with blue wheels is shown speeding along a red curved 
 
 ---
 
-### Ideas Hamster Wheeled Cartoon Logo
-
-![A cartoon illustration showing a yellow hamster with blue wheels attached to its body, positioned above curved text reading "IDEAS HAMSTER" with motion lines suggesting movement.](ideas-hamster-wheeled-cartoon-logo.png)
-
-_A cartoon illustration showing a yellow hamster with blue wheels attached to its body, positioned above curved text reading "IDEAS HAMSTER" with motion lines suggesting movement._
-
----
-
 ### Interconnected Change Network Diagram
 
 ![A diagram showing five cloud-shaped bubbles all labeled "CHANGE" connected by curved arrows forming a circular network, illustrating how change creates ripple effects and interconnected transformations.](interconnected-change-network-diagram.png)
@@ -519,14 +375,6 @@ _A diagram showing five cloud-shaped bubbles all labeled "CHANGE" connected by c
 ![This illustration shows eight different ways to give interpersonal recognition, including hat tip, salute, applaud, kudos, more power to your elbow, pat on the head, hall of fame, reflection, and say it with flowers.](interpersonal-recognition-typology-methods.png)
 
 _This illustration shows eight different ways to give interpersonal recognition, including hat tip, salute, applaud, kudos, more power to your elbow, pat on the head, hall of fame, reflection, and say it with flowers._
-
----
-
-### Interplanetary Organism Logo Space Design
-
-![A stylized space scene with colorful planets (red, orange, and blue) orbiting around a large green planet featuring a white "M" logo and the text "The Evolving Interplanetary Organism" on a dark background.](interplanetary-organism-logo-space-design.png)
-
-_A stylized space scene with colorful planets (red, orange, and blue) orbiting around a large green planet featuring a white "M" logo and the text "The Evolving Interplanetary Organism" on a dark background._
 
 ---
 
@@ -618,67 +466,11 @@ _A repeating pattern of orange padlocks with keyholes arranged in cross-shaped c
 
 ---
 
-### Padlock With Green Combination Dial
-
-![A combination lock with a green circular dial featuring clock-like markings and a black padlock shackle above it.](padlock-with-green-combination-dial.png)
-
-_A combination lock with a green circular dial featuring clock-like markings and a black padlock shackle above it._
-
----
-
 ### Padlocks Locked Unlocked Security Concept
 
 ![Four padlocks hanging on a rod, with two orange locked padlocks on the left and two gray unlocked padlocks on the right, illustrating a security or access control concept.](padlocks-locked-unlocked-security-concept.png)
 
 _Four padlocks hanging on a rod, with two orange locked padlocks on the left and two gray unlocked padlocks on the right, illustrating a security or access control concept._
-
----
-
-### Padlocks With Emotional Faces Security States
-
-![Three padlocks displaying different emotional expressions - sad, neutral, and happy faces - representing varying levels of security or access states.](padlocks-with-emotional-faces-security-states.png)
-
-_Three padlocks displaying different emotional expressions - sad, neutral, and happy faces - representing varying levels of security or access states._
-
----
-
-### Panda Black White Issue Visual Thinkery
-
-![A cheerful cartoon panda with raised paw appears next to text reading "NOW IT'S A BLACK & WHITE ISSUE..." on a blue background.](panda-black-white-issue-visual-thinkery.png)
-
-_A cheerful cartoon panda with raised paw appears next to text reading "NOW IT'S A BLACK & WHITE ISSUE..." on a blue background._
-
----
-
-### Panda Celebrating Arms Raised Blue Background
-
-![A stylized black and white panda bear sits with arms raised upward in a celebratory pose against a blue background.](panda-celebrating-arms-raised-blue-background.png)
-
-_A stylized black and white panda bear sits with arms raised upward in a celebratory pose against a blue background._
-
----
-
-### Panda Celebrating Arms Raised Joyful
-
-![A playful black and white panda bear sits with arms raised up in a joyful, celebratory pose.](panda-celebrating-arms-raised-joyful.png)
-
-_A playful black and white panda bear sits with arms raised up in a joyful, celebratory pose._
-
----
-
-### Panda Celebrating With Colorful Pie Chart Belly
-
-![A cheerful black and white panda with arms raised celebrates while displaying a colorful pie chart with red, green, blue, and yellow segments on its white belly against a blue background.](panda-celebrating-with-colorful-pie-chart-belly.png)
-
-_A cheerful black and white panda with arms raised celebrates while displaying a colorful pie chart with red, green, blue, and yellow segments on its white belly against a blue background._
-
----
-
-### Panda Holding Circular Ring Blue Background
-
-![A black and white panda bear sitting and holding or embracing a large circular ring or donut shape against a blue background.](panda-holding-circular-ring-blue-background.png)
-
-_A black and white panda bear sitting and holding or embracing a large circular ring or donut shape against a blue background._
 
 ---
 
@@ -690,43 +482,11 @@ _A black and white illustration of a panda bear holding or embracing a large cir
 
 ---
 
-### Panda Holding Colorful Pie Chart Illustration
-
-![A black and white panda bear holds a white circle containing colorful pie chart segments in red, green, blue, and yellow.](panda-holding-colorful-pie-chart-illustration.png)
-
-_A black and white panda bear holds a white circle containing colorful pie chart segments in red, green, blue, and yellow._
-
----
-
-### Panda Hugging Spiral Circle
-
-![A black and white ink drawing of a panda bear hugging or embracing a large circular spiral shape.](panda-hugging-spiral-circle.png)
-
-_A black and white ink drawing of a panda bear hugging or embracing a large circular spiral shape._
-
----
-
 ### Panda Lying Back Relaxed Pose
 
 ![A black and white illustration of a relaxed panda bear lying on its back with arms and legs spread out in a casual, carefree pose.](panda-lying-back-relaxed-pose.png)
 
 _A black and white illustration of a relaxed panda bear lying on its back with arms and legs spread out in a casual, carefree pose._
-
----
-
-### Panda Lying Relaxed Black White Sketch
-
-![A black and white sketch of a panda bear lying on its back in a relaxed pose with arms and legs spread out.](panda-lying-relaxed-black-white-sketch.png)
-
-_A black and white sketch of a panda bear lying on its back in a relaxed pose with arms and legs spread out._
-
----
-
-### Panda Reading Book Relaxed Pose
-
-![A panda lying on its back reading a book against a blue background, drawn in a simple black and white artistic style.](panda-reading-book-relaxed-pose.png)
-
-_A panda lying on its back reading a book against a blue background, drawn in a simple black and white artistic style._
 
 ---
 
@@ -738,23 +498,7 @@ _A panda bear lying on its back reading a book while relaxing in a curved, rocki
 
 ---
 
-### Panda Sitting Back View Blue Background
-
-![A stylized illustration of a black and white panda viewed from behind, sitting on a blue background with its distinctive round body shape and small ears visible.](panda-sitting-back-view-blue-background.png)
-
-_A stylized illustration of a black and white panda viewed from behind, sitting on a blue background with its distinctive round body shape and small ears visible._
-
----
-
-### Panda Sleeping On Bamboo Blue Background
-
-![A stylized black and white panda with a sleepy expression clings to a bright green bamboo stalk against a deep blue background.](panda-sleeping-on-bamboo-blue-background.png)
-
-_A stylized black and white panda with a sleepy expression clings to a bright green bamboo stalk against a deep blue background._
-
----
-
-### Parachutist Landing On Striped Flag
+### Parachutist Landing On Double Diamond
 
 ![A person with a red and white parachute is descending toward a teal-colored flag with white chevron stripes.](parachutist-landing-on-striped-flag.png)
 
@@ -762,11 +506,11 @@ _A person with a red and white parachute is descending toward a teal-colored fla
 
 ---
 
-### Person Approaching Sensor Enabled Building
+### Person Looking At GPS Map Sensor Enabled Building
 
 ![A person walks toward a building entrance where a sensor device emits signal waves to detect their approach, with teal highlighting showing the detection zone and pathway.](person-approaching-sensor-enabled-building.png)
 
-_A person walks toward a building entrance where a sensor device emits signal waves to detect their approach, with teal highlighting showing the detection zone and pathway._
+_A person walks toward a a digital map showing a pathway to a location._
 
 ---
 
@@ -783,14 +527,6 @@ _A person drowns in a large red can of "Black Treacle" syrup with only their han
 ![A person in business attire examines a large green rectangular object while another person stands on top of it saying "HMMM..."](person-examining-green-box-with-someone-on-top.png)
 
 _A person in business attire examines a large green rectangular object while another person stands on top of it saying "HMMM..."_
-
----
-
-### Person Hanging Pullup Bar Holding Cipd Book
-
-![A person hanging from a pull-up bar with one arm while holding a purple book labeled "CIPD" in the other hand.](person-hanging-pullup-bar-holding-cipd-book.png)
-
-_A person hanging from a pull-up bar with one arm while holding a purple book labeled "CIPD" in the other hand._
 
 ---
 
@@ -834,30 +570,6 @@ _A circular pie chart with six segments in various shades of blue, gray, and whi
 
 ---
 
-### Pie Chart Six Segments Blue Gray Shades
-
-![A pie chart divided into six segments in varying shades of blue and gray against a dark blue background.](pie-chart-six-segments-blue-gray-shades.png)
-
-_A pie chart divided into six segments in varying shades of blue and gray against a dark blue background._
-
----
-
-### Pie Chart Triangle Sector With Numbers
-
-![A yellow triangle sector representing approximately one-eighth of a blue circle, with the number 9 on the left and 5 on the bottom right.](pie-chart-triangle-sector-with-numbers.png)
-
-_A yellow triangle sector representing approximately one-eighth of a blue circle, with the number 9 on the left and 5 on the bottom right._
-
----
-
-### Pink Toolbox With Tool Symbols Blue Background
-
-![A pink toolbox with a black handle sits on a white surface against a blue background, with white tool symbols painted on its sides.](pink-toolbox-with-tool-symbols-blue-background.png)
-
-_A pink toolbox with a black handle sits on a white surface against a blue background, with white tool symbols painted on its sides._
-
----
-
 ### Pink Toolbox With Visible Tools Cutouts
 
 ![A pink toolbox with a black handle has white tools (wrench, screwdriver, and other implements) visible through cutout openings in its sides.](pink-toolbox-with-visible-tools-cutouts.png)
@@ -890,27 +602,11 @@ _A red padlock with an open shackle and a white key inserted into the lock mecha
 
 ---
 
-### Red Padlock With Key Security Lock
-
-![A red padlock with a key inserted and a metal clasp, representing security or access control.](red-padlock-with-key-security-lock.png)
-
-_A red padlock with a key inserted and a metal clasp, representing security or access control._
-
----
-
 ### Red Toolbox With White Tool Silhouettes
 
 ![A red toolbox with a black handle sits on a white surface, featuring white tool silhouettes including a wrench on its front face and other tools visible on the side.](red-toolbox-with-white-tool-silhouettes.png)
 
 _A red toolbox with a black handle sits on a white surface, featuring white tool silhouettes including a wrench on its front face and other tools visible on the side._
-
----
-
-### Relaxed Panda Lying On Back Blue Background
-
-![A black and white panda bear lies relaxed on its back against a bright blue background in a stylized, artistic illustration.](relaxed-panda-lying-on-back-blue-background.png)
-
-_A black and white panda bear lies relaxed on its back against a bright blue background in a stylized, artistic illustration._
 
 ---
 
@@ -938,27 +634,11 @@ _A black and white sketch of a sad-looking panda bear with droopy eyes and a dow
 
 ---
 
-### Sad Panda Sketch Black White Illustration
-
-![A hand-drawn illustration of a sad-looking panda bear with black and white fur, depicted in a sketchy, artistic style with visible brush strokes.](sad-panda-sketch-black-white-illustration.png)
-
-_A hand-drawn illustration of a sad-looking panda bear with black and white fur, depicted in a sketchy, artistic style with visible brush strokes._
-
----
-
-### Sad Sitting Panda Illustration
-
-![A simple black and white illustration of a sad-looking panda bear sitting with drooped posture and a melancholy expression.](sad-sitting-panda-illustration.png)
-
-_A simple black and white illustration of a sad-looking panda bear sitting with drooped posture and a melancholy expression._
-
----
-
-### Sad Sitting Panda Sketch Black White
+### Sitting Panda Sketch Black White
 
 ![A simple black and white sketch of a sad-looking panda sitting down, drawn in a loose, artistic style with charcoal or similar medium.](sad-sitting-panda-sketch-black-white.png)
 
-_A simple black and white sketch of a sad-looking panda sitting down, drawn in a loose, artistic style with charcoal or similar medium._
+_A simple black and white sketch of a panda sitting down, drawn in a loose, artistic style with charcoal or similar medium._
 
 ---
 
@@ -970,27 +650,11 @@ _A Sankey diagram shows four colored streams (Ideology in green, Community in re
 
 ---
 
-### Sankey Diagram Four Streams Merging Flow
-
-![A Sankey diagram showing how four input streams (Ideology, Community, Standard, and Technology) flow and merge into colored ribbons that combine and expand toward the right side of the image.](sankey-diagram-four-streams-merging-flow.png)
-
-_A Sankey diagram showing how four input streams (Ideology, Community, Standard, and Technology) flow and merge into colored ribbons that combine and expand toward the right side of the image._
-
----
-
 ### Signal Boost Transmission Tower Illustration
 
 ![A black transmission tower on a hill emits orange radio waves with "SIGNAL BOOST" written in blue and red text beside it.](signal-boost-transmission-tower-illustration.png)
 
 _A black transmission tower on a hill emits orange radio waves with "SIGNAL BOOST" written in blue and red text beside it._
-
----
-
-### Six Gray Squares With Keyhole Symbols
-
-![Six gray squares arranged in two rows, each containing a black keyhole symbol, representing locks or security elements.](six-gray-squares-with-keyhole-symbols.png)
-
-_Six gray squares arranged in two rows, each containing a black keyhole symbol, representing locks or security elements._
 
 ---
 
@@ -1050,14 +714,6 @@ _Three classical columns representing Web 2.0, AI ("This Will Change Everything"
 
 ---
 
-### Telescope On Tripod Blue Illustration
-
-![A stylized illustration of a telescope on a tripod stand rendered in light blue and white tones against a dark blue background.](telescope-on-tripod-blue-illustration.png)
-
-_A stylized illustration of a telescope on a tripod stand rendered in light blue and white tones against a dark blue background._
-
----
-
 ### Telescope On Tripod Watercolor Illustration
 
 ![A blue and gray telescope mounted on a tripod stand, illustrated in a loose watercolor or brush painting style.](telescope-on-tripod-watercolor-illustration.png)
@@ -1071,14 +727,6 @@ _A blue and gray telescope mounted on a tripod stand, illustrated in a loose wat
 ![A simple line drawing shows a person reclining on a therapy couch with the blue handwritten text "And how did that make you feel?" positioned to the right.](therapy-session-how-did-that-make-you-feel.png)
 
 _A simple line drawing shows a person reclining on a therapy couch with the blue handwritten text "And how did that make you feel?" positioned to the right._
-
----
-
-### Three Life Pills Fun Fame Fortune Choices
-
-![A hand-drawn illustration showing three colorful pill capsules labeled "Fun," "Fame," and "Fortune" with handwritten notes describing different life approaches - being new/variety-seeking, intellectual/interesting, and cash-focused respectively.](three-life-pills-fun-fame-fortune-choices.JPG)
-
-_A hand-drawn illustration showing three colorful pill capsules labeled "Fun," "Fame," and "Fortune" with handwritten notes describing different life approaches - being new/variety-seeking, intellectual/interesting, and cash-focused respectively._
 
 ---
 
@@ -1114,7 +762,7 @@ _The word "TRUST" is displayed in large turquoise letters with geometric line pa
 
 ---
 
-### Two Hammers Claw And Ball Peen Tools
+### Two Hammers Claw And Flat Head Tools
 
 ![A simple illustration showing two hammers side by side - a claw hammer with a brown wooden handle on the left and a ball-peen hammer with a red handle on the right.](two-hammers-claw-and-ball-peen-tools.png)
 
@@ -1122,27 +770,11 @@ _A simple illustration showing two hammers side by side - a claw hammer with a b
 
 ---
 
-### Two Hammers Claw And Flat Head Tools
-
-![Two hammers are shown side by side - one with a brown wooden handle featuring a claw head, and one with a red handle featuring a flat striking head.](two-hammers-claw-and-flat-head-tools.png)
-
-_Two hammers are shown side by side - one with a brown wooden handle featuring a claw head, and one with a red handle featuring a flat striking head._
-
----
-
-### Two Stars Magic Teapot Transformation
+### Two Stars And A Wish
 
 ![Two bright golden stars with radiating light rays are followed by a golden teapot with blue steam, suggesting a magical progression or transformation.](two-stars-magic-teapot-transformation.png)
 
 _Two bright golden stars with radiating light rays are followed by a golden teapot with blue steam, suggesting a magical progression or transformation._
-
----
-
-### Visual Thinkery Mixed Activity Icons
-
-![A collection of simple black and white sketched icons depicting various activities and concepts including mountains, weather, celebrations, crossword puzzles, sports, travel, and quarantine tape.](visual-thinkery-mixed-activity-icons.png)
-
-_A collection of simple black and white sketched icons depicting various activities and concepts including mountains, weather, celebrations, crossword puzzles, sports, travel, and quarantine tape._
 
 ---
 
@@ -1151,22 +783,6 @@ _A collection of simple black and white sketched icons depicting various activit
 ![A stylized black van with red accents displays "INNOVA TEAM" and "WAO" branding, featuring distinctive red wheels and a sleek corporate design.](wao-innovation-team-branded-van.png)
 
 _A stylized black van with red accents displays "INNOVA TEAM" and "WAO" branding, featuring distinctive red wheels and a sleek corporate design._
-
----
-
-### Watercolor Tree Grove With Reflections
-
-![A stylized watercolor illustration showing a grove of tall, slender trees with green foliage and yellow-orange trunks reflected in water below.](watercolor-tree-grove-with-reflections.png)
-
-_A stylized watercolor illustration showing a grove of tall, slender trees with green foliage and yellow-orange trunks reflected in water below._
-
----
-
-### Weathered Pie Chart Blue Teal Segments
-
-![A circular pie chart divided into seven segments in varying shades of blue, teal, gray, and white with a weathered, textured appearance.](weathered-pie-chart-blue-teal-segments.png)
-
-_A circular pie chart divided into seven segments in varying shades of blue, teal, gray, and white with a weathered, textured appearance._
 
 ---
 
