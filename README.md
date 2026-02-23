@@ -7,7 +7,7 @@ All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecomm
 ## Collections
 
 - [Community Building](./community/README.md) (24 images)
-- [Co-operative Principles](./cooperative/README.md) (21 images)
+- [Co-operative Principles](./cooperative/README.md) (13 images)
 - [Facilitation](./facilitation/README.md) (19 images)
 - [General](./general/README.md) (148 images)
 - [Learning Design](./learning-design/README.md) (67 images)
