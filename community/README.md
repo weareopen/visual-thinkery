@@ -90,14 +90,6 @@ _A circular illustration showing diverse people's faces around a globe with "WOR
 
 ---
 
-### Customer Journey Stepping Stones Process
-
-![A stick figure person walks across four colored stepping stones labeled "Awareness," "First Engagement," "Build Relationship," and "Deepen Engagement," illustrating a progressive customer journey or engagement process.](customer-journey-stepping-stones-process.png)
-
-_A stick figure person walks across four colored stepping stones labeled "Awareness," "First Engagement," "Build Relationship," and "Deepen Engagement," illustrating a progressive customer journey or engagement process._
-
----
-
 ### Four Stages Of Engagement Stepping Stones
 
 ![A stick figure person steps across four colored circles representing the progressive stages of engagement: Awareness, First Engagement, Build Relationship, and Deepen Engagement.](four-stages-of-engagement-stepping-stones.png)
@@ -114,27 +106,11 @@ _A person holds a Greenpeace megaphone while standing on a platform, with anothe
 
 ---
 
-### London Clc Organizational Ecosystem Sketch
-
-![This hand-drawn illustration shows the London CLC (City Learning Centre) at the center surrounded by various elements including company values, full-stack employees, manifestos, connecting initiatives, and references to government reinvention and entrepreneurial learning.](london-clc-organizational-ecosystem-sketch.PNG)
-
-_This hand-drawn illustration shows the London CLC (City Learning Centre) at the center surrounded by various elements including company values, full-stack employees, manifestos, connecting initiatives, and references to government reinvention and entrepreneurial learning._
-
----
-
 ### Open Hub Network Spokes Hexagons
 
 ![A radial diagram showing "Open Hub" in a blue center circle with gray spoke-like ribbons extending outward, each ending in an orange hexagon, representing a hub-and-spoke network model.](open-hub-network-spokes-hexagons.png)
 
 _A radial diagram showing "Open Hub" in a blue center circle with gray spoke-like ribbons extending outward, each ending in an orange hexagon, representing a hub-and-spoke network model._
-
----
-
-### Participation Depth Vs Skill Acquisition Graph
-
-![Two hand-drawn graphs illustrate the concept that as depth of participation increases, fewer people engage (left graph shows declining participation with vertical lines), while individual skill level increases (right graph shows rising curve), with a note about "skim-swim-dive" levels of engagement.](participation-depth-vs-skill-acquisition-graph.PNG)
-
-_Two hand-drawn graphs illustrate the concept that as depth of participation increases, fewer people engage (left graph shows declining participation with vertical lines), while individual skill level increases (right graph shows rising curve), with a note about "skim-swim-dive" levels of engagement._
 
 ---
 
@@ -170,43 +146,11 @@ _A cartoon illustration showing Planet 4 at the center surrounded by various sta
 
 ---
 
-### Planet A Communities Orbiting Earth Diagram
-
-![A cartoon illustration shows Planet A (Earth) at the center surrounded by various communities including Senior Admin, Designers, Data & Web Analytics, Developer, and Programme Stakeholders, each represented by small space-themed icons orbiting around the planet.](planet-a-communities-orbiting-earth-diagram.png)
-
-_A cartoon illustration shows Planet A (Earth) at the center surrounded by various communities including Senior Admin, Designers, Data & Web Analytics, Developer, and Programme Stakeholders, each represented by small space-themed icons orbiting around the planet._
-
----
-
 ### Planet4 Ecosystem Communities Orbit Diagram
 
 ![A diagram showing Planet4 at the center surrounded by orbiting elements representing different communities: P4 Council (rocket), Designers Community (astronauts), Programme Stakeholders (moon), Developer Community (rover), and Data & Web Analytics Community (satellite).](planet4-ecosystem-communities-orbit-diagram.png)
 
 _A diagram showing Planet4 at the center surrounded by orbiting elements representing different communities: P4 Council (rocket), Designers Community (astronauts), Programme Stakeholders (moon), Developer Community (rover), and Data & Web Analytics Community (satellite)._
-
----
-
-### Portus People Digital Catapult Mindmap Nov2016
-
-![A hand-drawn mind map from a November 2016 "Portus People Digital Catapult" meeting showing various concepts around data, storytelling, digital engagement, and cultural heritage research with stick figures representing participants and their ideas branching out from the central topic.](portus-people-digital-catapult-mindmap-nov2016.PNG)
-
-_A hand-drawn mind map from a November 2016 "Portus People Digital Catapult" meeting showing various concepts around data, storytelling, digital engagement, and cultural heritage research with stick figures representing participants and their ideas branching out from the central topic._
-
----
-
-### Portus People Digital Catchup Mindmap Nov2016
-
-![This is a hand-drawn mind map from a "Portus People Digital Catchup" meeting on November 18, 2016, showing various interconnected concepts around digital heritage, open data, storytelling, and research with participant names and key themes branched out from the central topic.](portus-people-digital-catchup-mindmap-nov2016.PNG)
-
-_This is a hand-drawn mind map from a "Portus People Digital Catchup" meeting on November 18, 2016, showing various interconnected concepts around digital heritage, open data, storytelling, and research with participant names and key themes branched out from the central topic._
-
----
-
-### Quick Call Clc Cake Emergency Sketch
-
-![A hand-drawn sketch shows the text "Quick! Call the CLC" with an arrow pointing down to a simple drawing of what appears to be a cake or round object on a tray or plate.](quick-call-clc-cake-emergency-sketch.PNG)
-
-_A hand-drawn sketch shows the text "Quick! Call the CLC" with an arrow pointing down to a simple drawing of what appears to be a cake or round object on a tray or plate._
 
 ---
 
@@ -242,14 +186,6 @@ _The word "TRUST" is displayed in large turquoise letters with geometric line pa
 
 ---
 
-### Visual Thinking Metaphors Community Sketch
-
-![A hand-drawn sketch exploring various metaphors and concepts including birds, plants, trees, street scenes, and human interactions, with handwritten notes about community, digital spaces, fear, and social connections.](visual-thinking-metaphors-community-sketch.PNG)
-
-_A hand-drawn sketch exploring various metaphors and concepts including birds, plants, trees, street scenes, and human interactions, with handwritten notes about community, digital spaces, fear, and social connections._
-
----
-
 ### Wao Core Values Creativity Sustainability Solidari
 
 ![Three watercolor shapes in orange, blue, and green contain the words "CREATIVITY," "SUSTAINABILITY," and "SOLIDARITY" respectively, representing core values with the WAO logo in the bottom left corner.](wao-core-values-creativity-sustainability-solidari.png)
@@ -258,6 +194,6 @@ _Three watercolor shapes in orange, blue, and green contain the words "CREATIVIT
 
 ---
 
-**32 images** in this collection
+**24 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
