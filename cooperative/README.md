@@ -18,14 +18,6 @@ _An infographic explaining the three key principles of cooperatives: they are de
 
 ---
 
-### Collaborative Thinking Modern Teamwork Concepts
-
-![This illustration presents key characteristics of modern collaborative approaches, featuring interconnected elements like participatory processes, open cooperation, nimble thinking teams, collective action, and connected educational technology networks.](collaborative-thinking-modern-teamwork-concepts.png)
-
-_This illustration presents key characteristics of modern collaborative approaches, featuring interconnected elements like participatory processes, open cooperation, nimble thinking teams, collective action, and connected educational technology networks._
-
----
-
 ### Coop 2 Point 0 Innovation Logo Illustration
 
 ![A colorful illustrated logo showing "COOP 2.0" with various elements including a satellite dish, trees, buildings, a rocket, and flowers representing different aspects of cooperation and innovation.](coop-2-point-0-innovation-logo-illustration.png)
