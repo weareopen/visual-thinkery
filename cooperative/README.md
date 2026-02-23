@@ -106,6 +106,6 @@ _A cartoon illustration shows the word "COOPS" with smiling faces in the O's, al
 
 ---
 
-**21 images** in this collection
+**13 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
