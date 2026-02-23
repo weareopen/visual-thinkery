@@ -50,14 +50,6 @@ _A t-shirt design reading "I OWN MY OWN CO-OP" is shown alongside four diverse p
 
 ---
 
-### Cotech Member Logo Blue
-
-![A blue geometric logo consisting of interconnected angular shapes beside the text "Member of CoTech" in a modern sans-serif font.](cotech-member-logo-blue.png)
-
-_A blue geometric logo consisting of interconnected angular shapes beside the text "Member of CoTech" in a modern sans-serif font._
-
----
-
 ### Democratic Member Control Open Sign
 
 ![A folding "WE are OPEN" sign with a smiley face stands next to text reading "DEMOCRATIC MEMBER CONTROL" illustrating openness and member participation in democratic organizations.](democratic-member-control-open-sign.png)
@@ -74,51 +66,11 @@ _A green triangular arrow pointing right with the word "SOLIDARITY" written in w
 
 ---
 
-### Hammer Cooperative Open Illustration
-
-![A hammer icon inside a dark blue circle with "WE ARE OPEN" curved above and "cooperative" written in red below, set against a light blue watercolor background.](hammer-cooperative-open-illustration.png)
-
-_A hammer icon inside a dark blue circle with "WE ARE OPEN" curved above and "cooperative" written in red below, set against a light blue watercolor background._
-
----
-
-### Hammer Cooperative Open Logo
-
-![A circular logo featuring a hammer with a wooden handle and red grip on a blue grid background, with "WE ARE OPEN" curved above and "cooperative" in red text below.](hammer-cooperative-open-logo.png)
-
-_A circular logo featuring a hammer with a wooden handle and red grip on a blue grid background, with "WE ARE OPEN" curved above and "cooperative" in red text below._
-
----
-
-### Hammer Logo We Are Open Cooperative
-
-![A circular logo featuring a hammer illustration with "WE ARE OPEN" curved along the top and "cooperative" in red text along the bottom right, set against a dark blue grid background.](hammer-logo-we-are-open-cooperative.png)
-
-_A circular logo featuring a hammer illustration with "WE ARE OPEN" curved along the top and "cooperative" in red text along the bottom right, set against a dark blue grid background._
-
----
-
 ### Member Economic Participation Open Sign
 
 ![A red tent-style "WE are OPEN" sign with a smiley face stands next to black text reading "MEMBER ECONOMIC PARTICIPATION" on a white background.](member-economic-participation-open-sign.png)
 
 _A red tent-style "WE are OPEN" sign with a smiley face stands next to black text reading "MEMBER ECONOMIC PARTICIPATION" on a white background._
-
----
-
-### Open Collaborative Workspace Concept Map
-
-![A hand-drawn concept map illustrating the cooperative and open nature of a work environment, featuring interconnected elements like collaborative character traits, tools, and an invitation to work together with various hand-drawn tools and a computer screen.](open-collaborative-workspace-concept-map.png)
-
-_A hand-drawn concept map illustrating the cooperative and open nature of a work environment, featuring interconnected elements like collaborative character traits, tools, and an invitation to work together with various hand-drawn tools and a computer screen._
-
----
-
-### Open Cooperative Participatory Connected Concept
-
-![This illustration shows key characteristics of open and cooperative approaches, featuring participatory processes, nimble thinkers working as a collective, connected networks, and integration of education, technology and business in a knowledgeable way.](open-cooperative-participatory-connected-concept.png)
-
-_This illustration shows key characteristics of open and cooperative approaches, featuring participatory processes, nimble thinkers working as a collective, connected networks, and integration of education, technology and business in a knowledgeable way._
 
 ---
 
