@@ -34,13 +34,7 @@ _A person explains to another that they created hoops to jump through, while poi
 
 ---
 
-### Business Development Brainstorm Sketch
 
-![A hand-drawn brainstorming sketch showing business development ideas including connecting with people, creating newsletters, hosting drop-ins and open days, and building relationships through conversations and useful freebies.](business-development-brainstorm-sketch.PNG)
-
-_A hand-drawn brainstorming sketch showing business development ideas including connecting with people, creating newsletters, hosting drop-ins and open days, and building relationships through conversations and useful freebies._
-
----
 
 ### Complex Problem Solving Teapot Metaphor
 
@@ -74,53 +68,6 @@ _A sketch showing various digital platforms (WordPress, Twitter, Gmail) represen
 
 ---
 
-### Digital Strategy Mindmap Barriers Opportunities
-
-![A hand-drawn mind map illustrating digital strategy challenges and opportunities for an organization, with "Website Strategy" and "Biggest Barriers" as central themes connected to various branches covering topics like content creation, community building, social media, and organizational obstacles.](digital-strategy-mindmap-barriers-opportunities.png)
-
-_A hand-drawn mind map illustrating digital strategy challenges and opportunities for an organization, with "Website Strategy" and "Biggest Barriers" as central themes connected to various branches covering topics like content creation, community building, social media, and organizational obstacles._
-
----
-
-### Digital Transformation Concept Map
-
-![This hand-drawn sketch map illustrates various concepts related to digital transformation, product development, and organizational change, including elements like skills & capabilities, funding, tools, team dynamics, and the progression from reactivity to proactivity.](digital-transformation-concept-map.png)
-
-_This hand-drawn sketch map illustrates various concepts related to digital transformation, product development, and organizational change, including elements like skills & capabilities, funding, tools, team dynamics, and the progression from reactivity to proactivity._
-
----
-
-### Greenpeace Americas Digital Strategy Mindmap
-
-![This is a hand-drawn mind map or brainstorming diagram about Greenpeace Americas' digital strategy, showing interconnected concepts around website strategy, engagement platforms, leadership roles, and organizational challenges.](greenpeace-americas-digital-strategy-mindmap.png)
-
-_This is a hand-drawn mind map or brainstorming diagram about Greenpeace Americas' digital strategy, showing interconnected concepts around website strategy, engagement platforms, leadership roles, and organizational challenges._
-
----
-
-### Greenpeace Apac Digital Strategy Mindmap
-
-![This is a hand-drawn mind map or sketch notes diagram documenting challenges and strategies for Greenpeace APAC's digital content and engagement efforts, featuring interconnected topics like website strategy, content sources, community building, and organizational barriers.](greenpeace-apac-digital-strategy-mindmap.png)
-
-_This is a hand-drawn mind map or sketch notes diagram documenting challenges and strategies for Greenpeace APAC's digital content and engagement efforts, featuring interconnected topics like website strategy, content sources, community building, and organizational barriers._
-
----
-
-### Greenpeace Emea Digital Strategy Mindmap
-
-![This is a hand-drawn mind map exploring Greenpeace EMEA's digital content strategy, website challenges, and organizational voice considerations through interconnected notes, sketches, and questions.](greenpeace-emea-digital-strategy-mindmap.png)
-
-_This is a hand-drawn mind map exploring Greenpeace EMEA's digital content strategy, website challenges, and organizational voice considerations through interconnected notes, sketches, and questions._
-
----
-
-### Greenpeace Website Strategy Mindmap
-
-![This is a hand-drawn mind map illustrating Greenpeace campaigners' website strategy discussion, showing various interconnected challenges, solutions, and organizational elements including content management, audience engagement, and internal processes.](greenpeace-website-strategy-mindmap.png)
-
-_This is a hand-drawn mind map illustrating Greenpeace campaigners' website strategy discussion, showing various interconnected challenges, solutions, and organizational elements including content management, audience engagement, and internal processes._
-
----
 
 ### It Department Balancing Priorities Diagram
 
@@ -138,15 +85,8 @@ _A Kanban board diagram showing three columns (To Do, Doing, Done) with task car
 
 ---
 
-### Lock Themed Category Icons Website Management
 
-![Six different lock-themed icons represent common website or project management categories: Community Feedback (three padlocks with sad, neutral, and happy faces), Installation (broken red padlock), Staff (combination lock), Backlog (four padlocks hanging on a rod), Coming Soon (red clock-face padlock), and Uncategorized (six scattered keyhole squares).](lock-themed-category-icons-website-management.png)
-
-_Six different lock-themed icons represent common website or project management categories: Community Feedback (three padlocks with sad, neutral, and happy faces), Installation (broken red padlock), Staff (combination lock), Backlog (four padlocks hanging on a rod), Coming Soon (red clock-face padlock), and Uncategorized (six scattered keyhole squares)._
-
----
-
-### Maven Network Dependency Visualization
+### MVN Dependency Visualization
 
 ![A network diagram showing interconnected nodes in coral and teal colors with "MVN" text prominently displayed in the center, representing a Maven dependency or project structure visualization.](maven-network-dependency-visualization.png)
 
@@ -162,51 +102,11 @@ _Two logo designs showing "MVP" with a blue upward arrow and "MLP" with a red he
 
 ---
 
-### Organizational Challenges Waves Illustration
-
-![A hand-drawn illustration showing two large waves with various business and project-related terms scattered throughout, depicting the turbulent nature of organizational challenges, with a triangle labeled "FAST," "CHEAP," and "QUALITY" in the upper right corner and the quote "WE KNOW IT CAN BE DONE BETTER" at the bottom left.](organizational-challenges-waves-illustration.PNG)
-
-_A hand-drawn illustration showing two large waves with various business and project-related terms scattered throughout, depicting the turbulent nature of organizational challenges, with a triangle labeled "FAST," "CHEAP," and "QUALITY" in the upper right corner and the quote "WE KNOW IT CAN BE DONE BETTER" at the bottom left._
-
----
-
-### Organizational Incentives Barriers Map
-
-![This handwritten diagram maps out incentives, measurements, and barriers for different organizations (Council, UNI, FE, SURE) in what appears to be an educational or community development context.](organizational-incentives-barriers-map.PNG)
-
-_This handwritten diagram maps out incentives, measurements, and barriers for different organizations (Council, UNI, FE, SURE) in what appears to be an educational or community development context._
-
----
-
 ### Overwhelmed Employee Onboarding Welcome Box
 
 ![A person is crushed under a large "WELCOME" box filled with papers, illustrating how overwhelming employee onboarding can be despite being labeled as "easy."](overwhelmed-employee-onboarding-welcome-box.png)
 
 _A person is crushed under a large "WELCOME" box filled with papers, illustrating how overwhelming employee onboarding can be despite being labeled as "easy."_
-
----
-
-### Passbolt Development Philosophy Sketch Map
-
-![This is a hand-drawn sketch map illustrating the development journey and philosophy of PassBolt password manager, showing the tension between security and convenience, privacy education concepts, and emphasizing that it was built by engineers rather than marketers.](passbolt-development-philosophy-sketch-map.PNG)
-
-_This is a hand-drawn sketch map illustrating the development journey and philosophy of PassBolt password manager, showing the tension between security and convenience, privacy education concepts, and emphasizing that it was built by engineers rather than marketers._
-
----
-
-### Pasta Machine Untangle Spaghetti Metaphor
-
-![A cartoon illustration shows a golden pasta machine with colorful tangled squiggles coming out the top and straight colorful strands coming out the bottom, with text below reading "WE'LL UNTANGLE YOUR SPAGHETTI."](pasta-machine-untangle-spaghetti-metaphor.png)
-
-_A cartoon illustration shows a golden pasta machine with colorful tangled squiggles coming out the top and straight colorful strands coming out the bottom, with text below reading "WE'LL UNTANGLE YOUR SPAGHETTI."_
-
----
-
-### People Process Product Collaboration Cycle
-
-![A diverse group of people surrounds a central product (depicted as a red box with a bicycle) with process flowcharts connecting them, illustrating collaborative product development.](people-process-product-collaboration-cycle.png)
-
-_A diverse group of people surrounds a central product (depicted as a red box with a bicycle) with process flowcharts connecting them, illustrating collaborative product development._
 
 ---
 
@@ -322,43 +222,11 @@ _A simple diagram showing three aspects of system ecosystems: production-oriente
 
 ---
 
-### Team Building Purpose Vs Pitfalls Sketch
-
-![A hand-drawn sketch illustrating the concept of purpose-driven team building versus what can go wrong, featuring various scenarios like password security, privacy concerns, and online interactions, with character archetypes including "The Enemy," "The Dumb Schmuck," and team members Alice, Betty, and Carol.](team-building-purpose-vs-pitfalls-sketch.PNG)
-
-_A hand-drawn sketch illustrating the concept of purpose-driven team building versus what can go wrong, featuring various scenarios like password security, privacy concerns, and online interactions, with character archetypes including "The Enemy," "The Dumb Schmuck," and team members Alice, Betty, and Carol._
-
----
-
-### Trumpet Password Management Banner Common Team
-
-![A trumpet with a red banner hanging from it that reads "PASSWORD MANAGEMENT FOR THE COMMON TEAM" in white text, illustrating the concept of announcing or promoting team password management practices.](trumpet-password-management-banner-common-team.png)
-
-_A trumpet with a red banner hanging from it that reads "PASSWORD MANAGEMENT FOR THE COMMON TEAM" in white text, illustrating the concept of announcing or promoting team password management practices._
-
----
-
-### Trumpet Password Management Banner Illustration
-
-![A trumpet with a red banner hanging from it that reads "PASSWORD MANAGEMENT FOR THE COMMON TEAM" in white text.](trumpet-password-management-banner-illustration.png)
-
-_A trumpet with a red banner hanging from it that reads "PASSWORD MANAGEMENT FOR THE COMMON TEAM" in white text._
-
----
-
 ### Two Week Sprint Runner Illustration
 
 ![An illustrated runner in white athletic wear mid-stride with "TWO WEEK SPRINT" written in blue text around the figure.](two-week-sprint-runner-illustration.png)
 
 _An illustrated runner in white athletic wear mid-stride with "TWO WEEK SPRINT" written in blue text around the figure._
-
----
-
-### Value Journey Circular Maze Building Top
-
-![A person walks through a circular maze on top of a building, with red signs marking different stages: Potential Value, Applied Value, Immediate Value, Realised Value, and Reframing Value.](value-journey-circular-maze-building-top.png)
-
-_A person walks through a circular maze on top of a building, with red signs marking different stages: Potential Value, Applied Value, Immediate Value, Realised Value, and Reframing Value._
 
 ---
 
@@ -370,13 +238,6 @@ _A person walks along a winding staircase path on top of a building, with red si
 
 ---
 
-### Website Management Lock Themed Icons
-
-![Six illustrated lock-themed icons represent different website or project management concepts: community feedback (three padlocks with sad, neutral, and happy faces), installation (broken red padlock), staff (calculator-like grid), backlog (four hanging padlocks), coming soon (clock-faced padlock), and uncategorized (six keyhole squares).](website-management-lock-themed-icons.png)
-
-_Six illustrated lock-themed icons represent different website or project management concepts: community feedback (three padlocks with sad, neutral, and happy faces), installation (broken red padlock), staff (calculator-like grid), backlog (four hanging padlocks), coming soon (clock-faced padlock), and uncategorized (six keyhole squares)._
-
----
 
 ### Zombie Garden Low Priority Ideas Resurface
 
@@ -386,6 +247,6 @@ _A cartoon garden plot labeled "Zombie Garden" shows buried ideas as zombie-like
 
 ---
 
-**48 images** in this collection
+**33 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
