@@ -90,14 +90,6 @@ _A red prohibition sign crosses out a speech bubble containing "MY BOSS SAID..."
 
 ---
 
-### Pencil Sharpener Untangling Spaghetti Concept
-
-![A cartoon pencil sharpener with tangled, colorful lines emerging from the top and straight, organized lines coming out the bottom, with text reading "We'll untangle your spaghetti."](pencil-sharpener-untangling-spaghetti-concept.png)
-
-_A cartoon pencil sharpener with tangled, colorful lines emerging from the top and straight, organized lines coming out the bottom, with text reading "We'll untangle your spaghetti."_
-
----
-
 ### Person Juggling Devices Critical Incident Training
 
 ![A person juggles multiple devices while presenting "Critical Incident Training" on a screen behind them, illustrating the challenge of managing technology during important presentations.](person-juggling-devices-critical-incident-training.png)
@@ -138,11 +130,11 @@ _A hand-drawn diagram illustrating the contrast between synchronous communicatio
 
 ---
 
-### Untangle Spaghetti Pencil Sharpener Metaphor
+### Untangling Spaghetti Metaphor
 
-![A cartoon pencil sharpener with tangled, colorful lines emerging from the top and straight lines coming out the bottom, illustrating the concept of untangling spaghetti-like complexity.](untangle-spaghetti-pencil-sharpener-metaphor.png)
+![A cartoon pencil sharpener with tangled, colorful lines emerging from the top and straight lines coming out the bottom, illustrating the concept of untangling spaghetti-like complexity.](untangle-spaghetti-metaphor.png)
 
-_A cartoon pencil sharpener with tangled, colorful lines emerging from the top and straight lines coming out the bottom, illustrating the concept of untangling spaghetti-like complexity._
+_A pasta-making machine with tangled, colorful lines emerging from the top and straight lines coming out the bottom, illustrating the concept of untangling spaghetti-like complexity._
 
 ---
 
@@ -154,6 +146,6 @@ _A warning sign with a storm cloud and lightning bolt icon stating "Warning: Do 
 
 ---
 
-**19 images** in this collection
+**18 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
