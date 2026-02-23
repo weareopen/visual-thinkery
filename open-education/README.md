@@ -10,14 +10,6 @@ _A green A-frame sign displaying "WE are OPEN" with a smiley face accompanies bo
 
 ---
 
-### Citizen Science Open Ethics Mindmap
-
-![A hand-drawn mind map exploring concepts around citizen science, open ethics, licensing models, and data sharing, with interconnected topics branching out from central themes and including a numbered menu of related concepts.](citizen-science-open-ethics-mindmap.PNG)
-
-_A hand-drawn mind map exploring concepts around citizen science, open ethics, licensing models, and data sharing, with interconnected topics branching out from central themes and including a numbered menu of related concepts._
-
----
-
 ### Educate Engage Earth Cycle Illustration
 
 ![A hand-drawn illustration of Earth with green continents and dark blue oceans, surrounded by red text reading "EDUCATE" at the top and "ENGAGE" at the bottom, with green arrows forming a circular flow around the globe.](educate-engage-earth-cycle-illustration.png)
@@ -26,29 +18,14 @@ _A hand-drawn illustration of Earth with green continents and dark blue oceans, 
 
 ---
 
-### External Content Pathways Diagram
+### Crazy Sixes
 
-![A simple line drawing shows three doorways labeled "Khan Academy," "Maths Websites," and "Maths Websites" with stepping stones leading to each, all connected to "External Content" text below.](external-content-pathways-diagram.PNG)
+![A cheerful anthropomorphized folded piece of paper with stick arms, hands, legs, eyes and a mouth celebrates with both arms raised in the air.](happy-book-character-celebrating-arms-up.png)
 
-_A simple line drawing shows three doorways labeled "Khan Academy," "Maths Websites," and "Maths Websites" with stepping stones leading to each, all connected to "External Content" text below._
-
----
-
-### Happy Book Character Celebrating Arms Up
-
-![A cheerful anthropomorphized open book character with stick arms, hands, legs, eyes and a mouth celebrates with both arms raised in the air.](happy-book-character-celebrating-arms-up.png)
-
-_A cheerful anthropomorphized open book character with stick arms, hands, legs, eyes and a mouth celebrates with both arms raised in the air._
+_A cheerful anthropomorphized piece of paper with stick arms, hands, legs, eyes and a mouth celebrates with both arms raised in the air._
 
 ---
 
-### Learning Platform Dome Educational Hub
-
-![A dome-shaped learning platform with "LEARNING PLATFORM" text around the curved top, containing a networked structure above and various educational resources like Google Play, YouTube, and Khan Academy arranged around the base level labeled "OPEN HUB" with a "WELCOME" mat at the entrance.](learning-platform-dome-educational-hub.png)
-
-_A dome-shaped learning platform with "LEARNING PLATFORM" text around the curved top, containing a networked structure above and various educational resources like Google Play, YouTube, and Khan Academy arranged around the base level labeled "OPEN HUB" with a "WELCOME" mat at the entrance._
-
----
 
 ### Learning Platform Dome Hub Sketch
 
@@ -80,13 +57,6 @@ _A hand-drawn diagram showing building blocks of online education, with "Scalabl
 
 _A stylized tree with green foliage and extensive brown roots underground illustrates the concept "Openness for Resilience" showing how deep foundations support growth._
 
----
-
-### Tree Roots Openness Resilience Illustration
-
-![A watercolor-style illustration of a tree with green foliage above ground and extensive brown roots below, accompanied by the text "OPENNESS FOR RESILIENCE."](tree-roots-openness-resilience-illustration.png)
-
-_A watercolor-style illustration of a tree with green foliage above ground and extensive brown roots below, accompanied by the text "OPENNESS FOR RESILIENCE."_
 
 ---
 
@@ -98,6 +68,6 @@ _A red tent-style sign displaying "WE are OPEN" with a smiley face stands next t
 
 ---
 
-**12 images** in this collection
+**9 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
