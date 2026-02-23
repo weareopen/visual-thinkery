@@ -802,6 +802,6 @@ _A cartoon illustration showing a young person who has lived through a sequence 
 
 ---
 
-**148 images** in this collection
+**113 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
