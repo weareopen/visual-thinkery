@@ -14,4 +14,4 @@ All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecomm
 - [Open Badges & Recognition](./open-badges/README.md) (33 images)
 - [Open Education](./open-education/README.md) (9 images)
 - [Project Management](./project-management/README.md) (33 images)
-- [User Research](./user-research/README.md) (31 images)
+- [User Research](./user-research/README.md) (27 images)

@@ -42,21 +42,6 @@ _A cartoon showing a person with binoculars observing a branching network diagra
 
 ---
 
-### Customer Journey Guide Vs Shop Diagram
-
-![A hand-drawn diagram showing different customer journey approaches, contrasting linear routes versus entwined journeys, with "The Guide" (where value lies) on the left connected to reviews and stories, and "The Shop" on the right offering downloads, e-books, assessments, and authentic credentials with closer expert interaction.](customer-journey-guide-vs-shop-diagram.PNG)
-
-_A hand-drawn diagram showing different customer journey approaches, contrasting linear routes versus entwined journeys, with "The Guide" (where value lies) on the left connected to reviews and stories, and "The Shop" on the right offering downloads, e-books, assessments, and authentic credentials with closer expert interaction._
-
----
-
-### Customer Personas Education Tech Notes
-
-![This is a hand-drawn sketch showing notes about three different people - Jamie (30, schools facing CPD), CDT Staff Jason (36, consultant/PM), and their various professional characteristics, needs, and ambitions related to education technology and IT solutions.](customer-personas-education-tech-notes.PNG)
-
-_This is a hand-drawn sketch showing notes about three different people - Jamie (30, schools facing CPD), CDT Staff Jason (36, consultant/PM), and their various professional characteristics, needs, and ambitions related to education technology and IT solutions._
-
----
 
 ### Discovery With Build Measure Learn Cycle Magnifyin
 
@@ -87,14 +72,6 @@ _A thermometer with colored bands from red (bottom/Nuh) to green (top/Yuh) label
 ![A cartoon person with a concerned expression says "let's assume our assumptions are dodgy..." under a header reading "ASSUMPTIONS."](dodgy-assumptions-cartoon.png)
 
 _A cartoon person with a concerned expression says "let's assume our assumptions are dodgy..." under a header reading "ASSUMPTIONS."_
-
----
-
-### Employment Challenges Mindmap Northeast England
-
-![A hand-drawn mind map exploring employment challenges and solutions, with "THE PROBLEM" at the center branching out to topics like skills, education, mentoring, demographics, and geographic factors affecting job opportunities in the Northeast of England.](employment-challenges-mindmap-northeast-england.PNG)
-
-_A hand-drawn mind map exploring employment challenges and solutions, with "THE PROBLEM" at the center branching out to topics like skills, education, mentoring, demographics, and geographic factors affecting job opportunities in the Northeast of England._
 
 ---
 
@@ -178,14 +155,6 @@ _A person observes floating heads with different expressions and red arrows poin
 
 ---
 
-### Stakeholder Analysis Education Personas Mindmap
-
-![A hand-drawn mind map showing stakeholder analysis with two main personas - Steve (a managerial type wanting efficient solutions) and Zoe (a primary computing lead wanting support and collaboration) - surrounded by lists of various educational roles and their characteristics.](stakeholder-analysis-education-personas-mindmap.PNG)
-
-_A hand-drawn mind map showing stakeholder analysis with two main personas - Steve (a managerial type wanting efficient solutions) and Zoe (a primary computing lead wanting support and collaboration) - surrounded by lists of various educational roles and their characteristics._
-
----
-
 ### Unknown Unknowns Iceberg Knowledge Gap
 
 ![An illustration showing a person's head partially submerged in blue water, with "WE DON'T KNOW" on the left side and "WHAT WE DON'T KNOW" on the right side, representing the concept that our unknown unknowns are far greater than our known unknowns.](unknown-unknowns-iceberg-knowledge-gap.png)
@@ -242,14 +211,7 @@ _A colorful word cloud displaying various descriptive terms with "EXCITED" promi
 
 ---
 
-### Youth Pathway Mapping Diagram
 
-![This hand-drawn diagram maps out the problems, needs, and potential paths for four young people (Johnny, Joe, Jane, and Reecy) showing their current situations, challenges, and possible futures including education, career options, and family circumstances.](youth-pathway-mapping-diagram.PNG)
-
-_This hand-drawn diagram maps out the problems, needs, and potential paths for four young people (Johnny, Joe, Jane, and Reecy) showing their current situations, challenges, and possible futures including education, career options, and family circumstances._
-
----
-
-**31 images** in this collection
+**27 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
