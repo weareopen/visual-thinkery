@@ -66,29 +66,6 @@ _A visual blueprint illustrating the concept of credential protection through va
 
 ---
 
-### Credential Vs Recognition Trophy Celebration
-
-![A person in blue holds a trophy while being carried by two supporters, illustrating the contrast between credential achievement and recognition by others.](credential-vs-recognition-trophy-celebration.png)
-
-_A person in blue holds a trophy while being carried by two supporters, illustrating the contrast between credential achievement and recognition by others._
-
----
-
-### Credentialing To Recognition Rainbow Bridge
-
-![A robotic arm labeled "Cold Hard Credentialing" passes a golden object through a rainbow arc to a celebrating person labeled "Warm Fuzzy Recognition."](credentialing-to-recognition-rainbow-bridge.png)
-
-_A robotic arm labeled "Cold Hard Credentialing" passes a golden object through a rainbow arc to a celebrating person labeled "Warm Fuzzy Recognition."_
-
----
-
-### Credentialing Vs Recognition Spectrum
-
-![A cartoon illustration contrasting a robotic arm performing "cold hard credentialling" with a joyful person leaping toward "warm fuzzy recognition," connected by a colorful rainbow arc.](credentialing-vs-recognition-spectrum.png)
-
-_A cartoon illustration contrasting a robotic arm performing "cold hard credentialling" with a joyful person leaping toward "warm fuzzy recognition," connected by a colorful rainbow arc._
-
----
 
 ### Credentialling To Recognition Spectrum
 
@@ -114,13 +91,6 @@ _A triangular diagram showing the three components of credential credibility: va
 
 ---
 
-### Credibility Triangle Validity Reliability Viabilit
-
-![A triangular diagram showing the three interconnected elements of credibility: validity at the top, reliability at the bottom left, and viability at the bottom right, with "credibility" labeled at the center where all three meet.](credibility-triangle-validity-reliability-viabilit.png)
-
-_A triangular diagram showing the three interconnected elements of credibility: validity at the top, reliability at the bottom left, and viability at the bottom right, with "credibility" labeled at the center where all three meet._
-
----
 
 ### Descriptive Vs Prescriptive Badges Pathway
 
@@ -130,13 +100,6 @@ _A figure walks along a dotted path with downward arrows labeled "descriptive ba
 
 ---
 
-### Digital Badge Credibility Levels Concentric Model
-
-![A silhouette figure stands at the center of concentric colored circles representing expanding levels of digital badge credibility, from self-issued at the core to endorsed at the outermost ring.](digital-badge-credibility-levels-concentric-model.png)
-
-_A silhouette figure stands at the center of concentric colored circles representing expanding levels of digital badge credibility, from self-issued at the core to endorsed at the outermost ring._
-
----
 
 ### Digital Credentials Types Hexagon Diagram
 
@@ -162,21 +125,6 @@ _This illustration shows three scenarios where physical items (train ticket, wal
 
 ---
 
-### Future Employee Spacetime Pathway Alert
-
-![A hand-drawn comic-style alert notification showing a possible future employee traveling through an endorsed space-time pathway, with a portrait photo, hexagonal diagram, and "Start Conversation" button.](future-employee-spacetime-pathway-alert.png)
-
-_A hand-drawn comic-style alert notification showing a possible future employee traveling through an endorsed space-time pathway, with a portrait photo, hexagonal diagram, and "Start Conversation" button._
-
----
-
-### Futuristic Employee Alert Notification Comic
-
-![A hand-drawn comic-style alert notification showing a "possible future employee traversing through endorsed pathway" with a person's photo and a "Start Conversation" button, humorously depicting space-time recruitment pathways.](futuristic-employee-alert-notification-comic.png)
-
-_A hand-drawn comic-style alert notification showing a "possible future employee traversing through endorsed pathway" with a person's photo and a "Start Conversation" button, humorously depicting space-time recruitment pathways._
-
----
 
 ### Hexagonal Void Stamp Badge
 
@@ -194,13 +142,6 @@ _A person in old-fashioned clothing churns butter with a wooden churn while sayi
 
 ---
 
-### Hr Function To Profession Evolution
-
-![A simple diagram showing the evolution from HR as a business function (represented by a box with inputs and outputs) to HR as a profession (represented by a person wearing an HR badge).](hr-function-to-profession-evolution.png)
-
-_A simple diagram showing the evolution from HR as a business function (represented by a box with inputs and outputs) to HR as a profession (represented by a person wearing an HR badge)._
-
----
 
 ### Keeping Badges Weird Signpost Illustration
 
@@ -282,13 +223,7 @@ _A cartoon shows a person in blue holding a trophy with raised arms while being 
 
 ---
 
-### Signpost Keeping Badges Weird Navigation
 
-![A wooden signpost with multiple directional arrows and a red ribbon reading "KEEPING BADGES WEIRD" illustrates the concept of helping people navigate and understand the digital badges landscape.](signpost-keeping-badges-weird-navigation.png)
-
-_A wooden signpost with multiple directional arrows and a red ribbon reading "KEEPING BADGES WEIRD" illustrates the concept of helping people navigate and understand the digital badges landscape._
-
----
 
 ### Space Game Badge Alert Interface
 
@@ -306,13 +241,6 @@ _A person points excitedly at a tree labeled "Technology" with "Standards" on th
 
 ---
 
-### Technology Tree Microcredentials Standards Communi
-
-![A person points excitedly at a tree labeled "Technology" growing from roots labeled "Standards" and "Community Ideology" while exclaiming "Oh wow! Microcredentials!"](technology-tree-microcredentials-standards-communi.png)
-
-_A person points excitedly at a tree labeled "Technology" growing from roots labeled "Standards" and "Community Ideology" while exclaiming "Oh wow! Microcredentials!"_
-
----
 
 ### Thankless Task Hexagon Badge Smile
 
@@ -338,14 +266,7 @@ _Three figures pass a viral badge from person to person in a chain, illustrating
 
 ---
 
-### Wooden Signpost Keeping Badges Weird Banner
 
-![A wooden directional signpost with multiple blank arrows pointing in different directions, with a red ribbon banner reading "KEEPING BADGES WEIRD" flowing across it.](wooden-signpost-keeping-badges-weird-banner.png)
-
-_A wooden directional signpost with multiple blank arrows pointing in different directions, with a red ribbon banner reading "KEEPING BADGES WEIRD" flowing across it._
-
----
-
-**43 images** in this collection
+**33 images** in this collection
 
 All images © Bryan Mathers, available under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
